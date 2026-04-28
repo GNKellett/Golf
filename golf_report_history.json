@@ -2,25 +2,8 @@
   "weeks": [
     {
       "week_key": "2026-W18",
-      "generated_at": "2026-04-28T22:53:35",
+      "generated_at": "2026-04-28T23:13:23",
       "keyword_groups": [
-        {
-          "site_key": "7daysperformance",
-          "site_name": "7daysperformance",
-          "site_url": "https://7daysperformance.co.uk/",
-          "competitions": [
-            {
-              "product": "Win This 2025 Volkswagen Golf GTI Clubsport + £2,000 Cash!",
-              "product_info": "Win This 2025 Volkswagen Golf GTI Clubsport + £2,000 Cash! Cash Alternative: £32,000 £0.02 sold: 6 % Enter now",
-              "badge_price": "£0.02",
-              "badge_price_value": 0.02,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://7daysperformance.co.uk/product/win-vw-golf-020526",
-              "priority": "High"
-            }
-          ]
-        },
         {
           "site_key": "acecompetitions",
           "site_name": "Acecompetitions",
@@ -35,23 +18,6 @@
               "date_status": "",
               "url": "https://www.acecompetitions.co.uk/competition/ping-g440/",
               "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "apex-competition",
-          "site_name": "Apex Competition",
-          "site_url": "https://apex-competition.co.uk/",
-          "competitions": [
-            {
-              "product": "Winner Takes All - VW Golf R & Mercedes A-Class & £12,000 + £30,000 in instant wins - 3/5/2026",
-              "product_info": "£2.00 Per Ticket Winner Takes All - VW Golf R & Mercedes A-Class & £12,000 + £30,000 in instant wins - 3/5/2026 Enter Now!",
-              "badge_price": "£2.00",
-              "badge_price_value": 2.0,
-              "draw_date": "2026-05-03",
-              "date_status": "",
-              "url": "https://apex-competition.co.uk/competition/winner-takes-all-vw-golf-r-mercedes-a-class-ps12000-ps30000-in-instant",
-              "priority": "Medium"
             }
           ]
         },
@@ -155,104 +121,6 @@
               "draw_date": "2026-05-10",
               "date_status": "",
               "url": "https://caddycomps.com/competition/win-2024-rolex-bluesy-submariner-custom-scotty-cameron-putter-2/",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "carsandkettlescompetition",
-          "site_name": "Carsandkettlescompetition",
-          "site_url": "https://carsandkettlescompetition.com/competition/",
-          "competitions": [
-            {
-              "product": "LV BAG & 3 X BANGLES MINI 5",
-              "product_info": "Active Competitions Two premium draws. One watch. Enter in seconds. LV BAG & 3 X BANGLES MINI 5 LV ALMA BAG 3 X GOLD BANGLES 5 X TICKETS ON THE MAIN DRAW 0 Tickets Sold: 4 15 11 Tickets remaining Sold: 4 /15 Remaining: 11 Enter Now Draws live on Facebook GOLF R FULLY LOADED BLACK EDITION LOW ODDS 0 Tickets Sold: 238 2000 1762 Tickets remaining Sold: 238 /2000 Remaining: 1762 Enter Now Draws live on Facebook LOUIS VUITTON ALMA BB BAG & 9CT GOLD BANGLES BRAND NEW 2026 LV BAG 9 CT GOLD BANGLES LOW ODDS £3000 CASH ALTERNATIVE 0 Tickets Sold: 94 350 256 Tickets remaining Sold: 94 /350 Remaining: 256 Enter Now Draws live on Facebook How It Works It only takes a minute. Step 1 Choose Your Competition Step 2 Answer the Question Step 3 Enter the Draw Our Winners Real winners. Real prizes. Paid or delivered. WINNER OF THE LADIES ROLEX OYSTER PERPETUAL March 29, 2026 “Congratulations to OUR WINNER of the Ladies Rolex Competition, Jules and his girlfriend from Brighouse. They couldn’t wait to receive their prize..so we dropped it off to them within an hour of the Live Draw! Safe to say they’re buzzing with their WIN! This is why we keep the numbers so low, so everyone has a good chance of winning! Thanks for playing guys and Enjoy your prize. “ KYLE HEWITT March 28, 2026 “Best of luck for sunday Kyle Thanks for taking part “ LAURA TRAVERS March 27, 2026 “WELL DONE LAURA WINNING 5 TICKETS ON LADIES ROLEX THANKS FOR TAKING PART “ Aaron Rouse March 27, 2026 “CONGRATULATIONS AARON WINNING £1000 RAX FREE MONEY THANKS FOR TAKING PART YOU GOT TO BE INIT TO WIN IT GUYYS” WINNER of THE ROLEX ROOT BEER March 16, 2026 “Damion, from York is our WINNER of The ROLEX ROOT BEER or £12,500 Competition. He chose to take the watch and was over the moon with his win after buying his tickets last minute! We hand delivered the watch to him the next day and it’s safe to say he was buzzing with his WIN! We LOVE seeing our winner’s reaction to the prize and that’s one of the reasons we drive for our competitions to be low odds, so you get a REAL chance of WINNING these luxury prizes! Congratulations to Damion, we hope you enjoy the prize. Thanks for playing!” WINNER OF MINI COMP – 5 ENTRIES ON ROLEX ROOT BEER March 14, 2026 “Congratulations Emily Jay on Winning 5 Entries on one of our mini competitions for the Main draw on the Rolex Root Beer. Good Luck on the Main draw and thanks for playing!” All Winners",
-              "badge_price": "",
-              "badge_price_value": null,
-              "draw_date": "2027-03-29",
-              "date_status": "",
-              "url": "https://carsandkettlescompetition.com/product/lv-bag-3-x-bangles-mini-5/",
-              "priority": "Low"
-            },
-            {
-              "product": "GOLF R",
-              "product_info": "GOLF R FULLY LOADED BLACK EDITION LOW ODDS 0 Tickets Sold: 238 2000 1762 Tickets remaining Sold: 238 /2000 Remaining: 1762 Enter Now Draws live on Facebook",
-              "badge_price": "",
-              "badge_price_value": null,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://carsandkettlescompetition.com/product/golf-r/",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "click",
-          "site_name": "Click Comps",
-          "site_url": "https://www.clickcompetitions.co.uk/",
-          "competitions": [
-            {
-              "product": "Win This MK8 Volkswagen Golf R Performance Pack + £1,000 Tax Free Cash",
-              "product_info": "Draw WED 29TH APR Win This MK8 Volkswagen Golf R Performance Pack + £1,000 Tax Free Cash £0.15 PER ENTRY 33% Sold Cash alternative : £25,000 Enter Now",
-              "badge_price": "£0.15",
-              "badge_price_value": 0.15,
-              "draw_date": "2026-04-29",
-              "date_status": "",
-              "url": "https://www.clickcompetitions.co.uk/competitions/win-this-mk8-volkswagen-golf-r-performance-pack-1000-tax-free-cash",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "dreamcars",
-          "site_name": "Dream Cars",
-          "site_url": "https://dreamcargiveaways.co.uk/competitions",
-          "competitions": [
-            {
-              "product": "Win this 2025 Volkswagen Golf GTi Clubsport & £2,000 or £32,000 Tax Free",
-              "product_info": "2days",
-              "badge_price": "£0.09",
-              "badge_price_value": 0.09,
-              "draw_date": "2026-04-30",
-              "date_status": "",
-              "url": "https://dreamcargiveaways.co.uk/competitions/win-this-2025-volkswagen-clubsport-or-32000",
-              "priority": "High"
-            },
-            {
-              "product": "Win this £825K+ Ross-on-Wye Dream Home & VW Golf R",
-              "product_info": "5days",
-              "badge_price": "£0.75",
-              "badge_price_value": 0.75,
-              "draw_date": "2026-05-03",
-              "date_status": "",
-              "url": "https://dreamcargiveaways.co.uk/competitions/ross-on-wye-dream-home",
-              "priority": "High"
-            }
-          ]
-        },
-        {
-          "site_key": "driftcompetitions",
-          "site_name": "Driftcompetitions",
-          "site_url": "https://www.driftcompetitions.co.uk/",
-          "competitions": [
-            {
-              "product": "WIN 400 ENTRIES INTO THE GOLF R COMPETITION, 4 WINNERS WINNING 100 ENTRIES EACH ( Competition 3 )",
-              "product_info": "Draw Fri 1st May 3 days 21 hrs 29 mins 31 secs 33 % Sold £ 1.00 Per Entry WIN 400 ENTRIES INTO THE GOLF R COMPETITION, 4 WINNERS WINNING 100 ENTRIES EACH ( Competition 3 ) Enter Now",
-              "badge_price": "£ 1.00",
-              "badge_price_value": 1.0,
-              "draw_date": "2026-05-01",
-              "date_status": "",
-              "url": "https://www.driftcompetitions.co.uk/competition/win-400-entries-into-the-golf-r-competition-4-winners-winning-100-entries-each-competition-3/",
-              "priority": "Low"
-            },
-            {
-              "product": "WIN A 2024 GOLF R 0R £20,000 CASH",
-              "product_info": "Draw Fri 29th May 31 days 21 hrs 45 mins 31 secs 15 % Sold £ 1.99 Per Entry WIN A 2024 GOLF R 0R £20,000 CASH Cash Alternative: £20,000 Enter Now",
-              "badge_price": "£ 1.99",
-              "badge_price_value": 1.99,
-              "draw_date": "2026-05-29",
-              "date_status": "",
-              "url": "https://www.driftcompetitions.co.uk/competition/win-a-2024-golf-r-0r-20000-cash/",
               "priority": "Low"
             }
           ]
@@ -1160,50 +1028,6 @@
           ]
         },
         {
-          "site_key": "retroshite",
-          "site_name": "Retroshite",
-          "site_url": "https://retroshite.com/",
-          "competitions": [
-            {
-              "product": "Volkswagen Golf V5",
-              "product_info": "Sun May 17th 9:00pm Volkswagen Golf V5 £3.00 PER TICKET Entry £3.00 Enter",
-              "badge_price": "£3.00",
-              "badge_price_value": 3.0,
-              "draw_date": "2026-05-17",
-              "date_status": "",
-              "url": "https://retroshite.com/competition/volkswagen-golf-v5",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
-          "site_key": "speedcompetitions",
-          "site_name": "Speedcompetitions",
-          "site_url": "https://speedcompetitions.co.uk/",
-          "competitions": [
-            {
-              "product": "2025 Volkswagen Golf R",
-              "product_info": "INSTANTS! 54.5% £2.50 one-line-bingo Enter Competition",
-              "badge_price": "£2.50",
-              "badge_price_value": 2.5,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://speedcompetitions.co.uk/competition/2025-volkswagen-golf-r",
-              "priority": "Ignore"
-            },
-            {
-              "product": "Vw Golf R Ticket Bundles Ps250 End Prize",
-              "product_info": "BUNDLES! 24.6% £0.07 5p instant-reveal Enter Competition",
-              "badge_price": "£0.07",
-              "badge_price_value": 0.07,
-              "draw_date": "",
-              "date_status": "",
-              "url": "https://speedcompetitions.co.uk/competition/vw-golf-r-ticket-bundles-ps250-end-prize",
-              "priority": "Ignore"
-            }
-          ]
-        },
-        {
           "site_key": "supreemlife",
           "site_name": "Supreemlife",
           "site_url": "https://supreemlife.co.uk/live-competitions/",
@@ -1216,23 +1040,6 @@
               "draw_date": "2026-04-30",
               "date_status": "",
               "url": "https://supreemlife.co.uk/product/strata-mens-golf-club-package-set/",
-              "priority": "Low"
-            }
-          ]
-        },
-        {
-          "site_key": "thecarcompetition",
-          "site_name": "Thecarcompetition",
-          "site_url": "https://www.thecarcompetition.co.uk/",
-          "competitions": [
-            {
-              "product": "Win This MK8 Volkswagen Golf R + £2,000",
-              "product_info": "Days Hrs Mns Secs 12% SOLD £ 0.99 Original price was: £0.99. £ 0.79 Current price is: £0.79. Win This MK8 Volkswagen Golf R + £2,000 Add to Cart × Win This MK8 Volkswagen Golf R + £2,000 Select the number of ticket 1 200 1 Ticket(s) Add to basket £ 0.79 Added to cart successfully. View Cart",
-              "badge_price": "£0.99",
-              "badge_price_value": 0.99,
-              "draw_date": "2026-05-01",
-              "date_status": "",
-              "url": "https://thecarcompetition.co.uk/competition/mk8r-5/",
               "priority": "Low"
             }
           ]
@@ -1291,5 +1098,5 @@
       ]
     }
   ],
-  "updated_at": "2026-04-28T22:53:35"
+  "updated_at": "2026-04-28T23:13:23"
 }
