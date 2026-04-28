@@ -314,8 +314,24 @@
       </div>
     </section>
 
+    <section class="panel" aria-labelledby="adhocTitle">
+      <h2 id="adhocTitle">Ad Hoc Golf Matches (Non-Root Sites)</h2>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Site</th>
+              <th>Matches</th>
+              <th>Avg Match Price</th>
+            </tr>
+          </thead>
+          <tbody id="adhocSummaryBody"></tbody>
+        </table>
+      </div>
+    </section>
+
     <section class="panel" aria-labelledby="historyTitle">
-      <h2 id="historyTitle">Keyword History (Golf / Driver / Putter)</h2>
+      <h2 id="historyTitle">Keyword History (Ad Hoc Sites Only)</h2>
       <div class="weeks" id="weeksWrap"></div>
     </section>
   </div>
@@ -325,10 +341,12 @@
     const historyPath = "./golf_report_history.json";
 
     const summaryBody = document.getElementById("summaryBody");
+  const adhocSummaryBody = document.getElementById("adhocSummaryBody");
     const weeksWrap = document.getElementById("weeksWrap");
     const metaLine = document.getElementById("metaLine");
     const weekSelect = document.getElementById("weekSelect");
     const reloadBtn = document.getElementById("reloadBtn");
+  let rootSiteKeySet = new Set();
 
     function escapeHtml(value) {
       const text = String(value == null ? "" : value);
@@ -380,6 +398,51 @@
       }
     }
 
+    function buildAdhocGroupsForWeek(week) {
+      const groups = Array.isArray(week && week.keyword_groups) ? week.keyword_groups : [];
+      return groups.filter((group) => {
+        const siteKey = String(group.site_key || "").trim().toLowerCase();
+        return siteKey && !rootSiteKeySet.has(siteKey);
+      });
+    }
+
+    function renderAdhocSummary(currentWeek) {
+      adhocSummaryBody.innerHTML = "";
+
+      const adhocGroups = buildAdhocGroupsForWeek(currentWeek);
+      if (!adhocGroups.length) {
+        adhocSummaryBody.innerHTML = `<tr><td colspan="3" class="empty">No ad hoc golf matches found this week.</td></tr>`;
+        return;
+      }
+
+      for (const group of adhocGroups) {
+        const siteText = escapeHtml(group.site_name || group.site_key || "");
+        const siteUrl = String(group.site_url || "").trim();
+        const siteCell = siteUrl
+          ? `<a href="${escapeHtml(siteUrl)}" target="_blank" rel="noopener">${siteText}</a>`
+          : siteText;
+
+        const competitions = Array.isArray(group.competitions) ? group.competitions : [];
+        const prices = competitions
+          .map((comp) => Number(comp.badge_price_value))
+          .filter((value) => Number.isFinite(value));
+        const avgPrice = prices.length
+          ? `£${num(prices.reduce((sum, value) => sum + value, 0) / prices.length, 2)}`
+          : "";
+
+        adhocSummaryBody.insertAdjacentHTML(
+          "beforeend",
+          `
+            <tr>
+              <td>${siteCell}</td>
+              <td class="num">${num(competitions.length, 0)}</td>
+              <td class="num">${avgPrice}</td>
+            </tr>
+          `
+        );
+      }
+    }
+
     function fillWeekSelect(weeks) {
       const previous = weekSelect.value;
       weekSelect.innerHTML = `<option value="all">All available weeks</option>`;
@@ -407,7 +470,7 @@
       }
 
       for (const week of visibleWeeks) {
-        const groups = Array.isArray(week.keyword_groups) ? week.keyword_groups : [];
+        const groups = buildAdhocGroupsForWeek(week);
         const generated = fmtDateTime(week.generated_at);
 
         let blocks = "";
@@ -473,14 +536,20 @@
         const weeks = Array.isArray(history.weeks) ? [...history.weeks] : [];
         weeks.sort((a, b) => String(b.week_key || "").localeCompare(String(a.week_key || "")));
 
+        rootSiteKeySet = new Set((latest.root_sites || [])
+          .map(row => String(row.site_key || "").trim().toLowerCase())
+          .filter(Boolean));
+
         fillWeekSelect(weeks);
         renderWeeks(weeks);
+        renderAdhocSummary(latest.current_week || {});
 
         metaLine.textContent = `Latest generated: ${fmtDateTime(latest.generated_at)} | Weeks stored: ${weeks.length}`;
       } catch (err) {
         const message = err && err.message ? err.message : String(err);
         metaLine.textContent = "Data load failed.";
         summaryBody.innerHTML = `<tr><td colspan="7" class="err">${escapeHtml(message)}</td></tr>`;
+        adhocSummaryBody.innerHTML = `<tr><td colspan="3" class="err">${escapeHtml(message)}</td></tr>`;
         weeksWrap.innerHTML = `<p class="err">${escapeHtml(message)}</p>`;
       }
     }
