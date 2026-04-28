@@ -2,7 +2,7 @@
   "weeks": [
     {
       "week_key": "2026-W18",
-      "generated_at": "2026-04-28T23:13:23",
+      "generated_at": "2026-04-28T23:16:06",
       "keyword_groups": [
         {
           "site_key": "acecompetitions",
@@ -858,16 +858,6 @@
           "site_url": "https://itsworthapunt.co.uk/",
           "competitions": [
             {
-              "product": "Redtiger Golf Rangefinder Mega Low Ticket Numbers",
-              "product_info": "£0.05 Per Ticket",
-              "badge_price": "£0.05",
-              "badge_price_value": 0.05,
-              "draw_date": "2026-05-06",
-              "date_status": "",
-              "url": "https://itsworthapunt.co.uk/competition/redtiger-golf-rangefinder-mega-low-ticket-numbers",
-              "priority": "Ignore"
-            },
-            {
               "product": "Golf Taylormade Instant Winner Ps15000 Cash Plus Loads Of Taylormade",
               "product_info": "£0.10 £0.05 Per Ticket",
               "badge_price": "£0.05",
@@ -1098,5 +1088,5 @@
       ]
     }
   ],
-  "updated_at": "2026-04-28T23:13:23"
+  "updated_at": "2026-04-28T23:16:06"
 }
