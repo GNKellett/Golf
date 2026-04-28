@@ -139,7 +139,7 @@
     td {
       padding: 10px 12px;
       border-bottom: 1px solid #e7ecec;
-      text-align: left;
+      text-align: center;
       font-size: 0.92rem;
     }
 
@@ -153,7 +153,7 @@
     }
 
     td.num {
-      text-align: right;
+      text-align: center;
       font-variant-numeric: tabular-nums;
     }
 
@@ -321,8 +321,12 @@
           <thead>
             <tr>
               <th>Site</th>
-              <th>Matches</th>
-              <th>Avg Match Price</th>
+              <th>No. Comps</th>
+              <th>Avg Price</th>
+              <th>0-2.49</th>
+              <th>2.50-5.00</th>
+              <th>5.01+</th>
+              <th>Free</th>
             </tr>
           </thead>
           <tbody id="adhocSummaryBody"></tbody>
@@ -411,7 +415,7 @@
 
       const adhocGroups = buildAdhocGroupsForWeek(currentWeek);
       if (!adhocGroups.length) {
-        adhocSummaryBody.innerHTML = `<tr><td colspan="3" class="empty">No ad hoc golf matches found this week.</td></tr>`;
+        adhocSummaryBody.innerHTML = `<tr><td colspan="7" class="empty">No ad hoc golf matches found this week.</td></tr>`;
         return;
       }
 
@@ -426,17 +430,24 @@
         const prices = competitions
           .map((comp) => Number(comp.badge_price_value))
           .filter((value) => Number.isFinite(value));
-        const avgPrice = prices.length
-          ? `£${num(prices.reduce((sum, value) => sum + value, 0) / prices.length, 2)}`
-          : "";
+        const totalComps = competitions.length;
+        const avgPrice = prices.length ? prices.reduce((sum, value) => sum + value, 0) / prices.length : null;
+        const under2_50 = prices.filter((value) => value > 0 && value < 2.5).length;
+        const between2_50And5_00 = prices.filter((value) => value >= 2.5 && value <= 5).length;
+        const over5_00 = prices.filter((value) => value > 5).length;
+        const freeCount = prices.filter((value) => value === 0).length;
 
         adhocSummaryBody.insertAdjacentHTML(
           "beforeend",
           `
             <tr>
               <td>${siteCell}</td>
-              <td class="num">${num(competitions.length, 0)}</td>
-              <td class="num">${avgPrice}</td>
+              <td class="num">${num(totalComps, 0)}</td>
+              <td class="num">${avgPrice == null ? "" : `£${num(avgPrice, 2)}`}</td>
+              <td class="num">${num(under2_50, 0)}</td>
+              <td class="num">${num(between2_50And5_00, 0)}</td>
+              <td class="num">${num(over5_00, 0)}</td>
+              <td class="num">${num(freeCount, 0)}</td>
             </tr>
           `
         );
@@ -549,7 +560,7 @@
         const message = err && err.message ? err.message : String(err);
         metaLine.textContent = "Data load failed.";
         summaryBody.innerHTML = `<tr><td colspan="7" class="err">${escapeHtml(message)}</td></tr>`;
-        adhocSummaryBody.innerHTML = `<tr><td colspan="3" class="err">${escapeHtml(message)}</td></tr>`;
+        adhocSummaryBody.innerHTML = `<tr><td colspan="7" class="err">${escapeHtml(message)}</td></tr>`;
         weeksWrap.innerHTML = `<p class="err">${escapeHtml(message)}</p>`;
       }
     }
