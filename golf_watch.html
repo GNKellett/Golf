@@ -272,6 +272,30 @@
         flex-direction: column;
         align-items: flex-start;
       }
+
+      table {
+        min-width: 600px;
+      }
+
+      th, td {
+        padding: 5px 4px;
+        font-size: 0.82rem;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .shell {
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+      }
+      table {
+        min-width: 420px;
+      }
+      th, td {
+        padding: 3px 2px;
+        font-size: 0.75rem;
+      }
     }
   </style>
 </head>
@@ -283,15 +307,10 @@
     </header>
 
     <section class="toolbar" aria-label="Actions">
-      <a href="index.html">Free Entries Page</a>
-      <button id="reloadBtn" type="button">Reload JSON</button>
       <label for="weekSelect">History view</label>
       <select id="weekSelect">
         <option value="all">All available weeks</option>
       </select>
-      <div class="spacer"></div>
-      <a href="golf_report_latest.json" target="_blank" rel="noopener">Open latest JSON</a>
-      <a href="golf_report_history.json" target="_blank" rel="noopener">Open history JSON</a>
     </section>
 
     <section class="panel" aria-labelledby="summaryTitle">
@@ -349,7 +368,7 @@
     const weeksWrap = document.getElementById("weeksWrap");
     const metaLine = document.getElementById("metaLine");
     const weekSelect = document.getElementById("weekSelect");
-    const reloadBtn = document.getElementById("reloadBtn");
+    // const reloadBtn = document.getElementById("reloadBtn");
   let rootSiteKeySet = new Set();
 
     function escapeHtml(value) {
@@ -577,7 +596,7 @@
       }
     });
 
-    reloadBtn.addEventListener("click", loadPage);
+    // reloadBtn.addEventListener("click", loadPage);
     loadPage();
   </script>
 </body>
