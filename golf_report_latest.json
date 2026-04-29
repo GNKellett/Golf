@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T12:41:00",
+  "generated_at": "2026-04-29T12:57:16",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -148,7 +148,7 @@
   },
   "current_week": {
     "week_key": "2026-W18",
-    "generated_at": "2026-04-29T12:41:00",
+    "generated_at": "2026-04-29T12:57:16",
     "keyword_groups": [
       {
         "site_key": "acecompetitions",
