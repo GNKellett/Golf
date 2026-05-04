@@ -1074,7 +1074,7 @@
     },
     {
       "week_key": "2026-W19",
-      "generated_at": "2026-05-04T17:36:13",
+      "generated_at": "2026-05-04T17:55:55",
       "keyword_groups": [
         {
           "site_key": "caddycomps",
@@ -2095,5 +2095,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-04T17:36:13"
+  "updated_at": "2026-05-04T17:55:55"
 }
