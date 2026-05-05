@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T23:14:08",
+  "generated_at": "2026-05-05T14:46:03",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -52,12 +52,12 @@
     },
     {
       "site_key": "golfcomps",
-      "site_name": "Golfcomps",
-      "site_url": "https://www.golfcomps.com/competitions/",
-      "total_comps": 32,
-      "avg_price": 1.1803,
-      "under_2_50_count": 30,
-      "from_2_50_to_5_00_count": 1,
+      "site_name": "golfcomps",
+      "site_url": "",
+      "total_comps": 0,
+      "avg_price": null,
+      "under_2_50_count": 0,
+      "from_2_50_to_5_00_count": 0,
       "over_5_00_count": 0,
       "free_count": 0
     },
@@ -147,166 +147,8 @@
     ]
   },
   "current_week": {
-    "week_key": "2026-W18",
-    "generated_at": "2026-04-28T23:14:08",
-    "keyword_groups": [
-      {
-        "site_key": "golfcomps",
-        "site_name": "Golfcomps",
-        "site_url": "https://www.golfcomps.com/competitions/",
-        "competitions": [
-          {
-            "product": "WIN A BRAND NEW 2026 DRIVER OF YOUR CHOICE #7 (WORTH UP TO £549)",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "1.09",
-            "badge_price_value": 1.09,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-brand-new-2026-driver-of-your-choice-7/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A BRAND NEW PAIR OF GOLF SHOES OF YOUR CHOICE #5",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "0.79",
-            "badge_price_value": 0.79,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-brand-new-pair-of-golf-shoes-of-your-choice-5/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A NEW 2026 CALLAWAY QUANTUM MINI GOLF DRIVER #1 (WORTH £429)",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "1.49",
-            "badge_price_value": 1.49,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-new-2026-callaway-quantum-mini-golf-driver-1/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A NEW 2026 GARMIN APPROACH S50 GPS GOLF WATCH #5 (WORTH £349.99)",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "0.99",
-            "badge_price_value": 0.99,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-new-2026-garmin-approach-s50-gps-golf-watch-5/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A NEW 2026 L.A.B GOLF DF3i PUTTER IN A COLOUR OF YOUR CHOICE #3 (WORTH £599)",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "4.49",
-            "badge_price_value": 4.49,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-new-2026-l-a-b-golf-df3i-putter-in-a-colour-of-your-choice-3/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A NEW L.A.B OZ.1i GOLF PUTTER IN A COLOUR OF YOUR CHOICE #2 (WORTH £599)",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "1.99",
-            "badge_price_value": 1.99,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-new-l-a-b-oz-1i-golf-putter-in-a-colour-of-your-choice-2-2/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A NEW TAYLORMADE QI4D 2026 DRIVER #7 (WORTH £549)",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "0.99",
-            "badge_price_value": 0.99,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-new-taylormade-qi4d-2026-driver-7/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A SET OF 3 CLEVELAND RTZ GOLF WEDGES #3 (WORTH £447)",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "0.89",
-            "badge_price_value": 0.89,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-set-of-3-cleveland-rtz-golf-wedges-3/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A £500 MALBON GOLF SHOPPING SPREE AT SCOTTSDALE GOLF #1",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "1.19",
-            "badge_price_value": 1.19,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-500-malbon-golf-shopping-spree-at-scottsdale-golf-1/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A £750 J.LINDEBERG GOLF SHOPPING SPREE AT SCOTTSDALE GOLF #1",
-            "product_info": "Draw Tomorrow",
-            "badge_price": "1.49",
-            "badge_price_value": 1.49,
-            "draw_date": "2026-04-29",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-750-j-lindeberg-golf-shopping-spree-at-scottsdale-golf-1/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A BLUE TEES SERIES 3 MAX E GOLF LASER RANGEFINDER #1 (WORTH £199.99)",
-            "product_info": "Draw Tue 5th May",
-            "badge_price": "0.49",
-            "badge_price_value": 0.49,
-            "draw_date": "2026-05-05",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-blue-tees-series-3-max-e-golf-laser-rangefinder-1/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A BRAND NEW 2026 L.A.B. LINK.2.2 GOLF PUTTER #1 (WORTH £499)",
-            "product_info": "Draw Tue 5th May",
-            "badge_price": "0.99",
-            "badge_price_value": 0.99,
-            "draw_date": "2026-05-05",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-brand-new-2026-l-a-b-link-2-2-golf-putter-1/",
-            "priority": "High"
-          },
-          {
-            "product": "WIN A NEW TAYLORMADE R7 QUAD MINI DRIVER #1 (WORTH £399)",
-            "product_info": "Draw Tue 5th May",
-            "badge_price": "1.59",
-            "badge_price_value": 1.59,
-            "draw_date": "2026-05-05",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/win-a-new-taylormade-r7-quad-mini-driver-1/",
-            "priority": "High"
-          },
-          {
-            "product": "TAP IT IN, INSTANT WIN COMP – 1000 INSTANT WINS WORTH OVER £32k – £1000 SCOTTSDALE GOLF VOUCHER END PRIZE #1",
-            "product_info": "Draw Thu 28th May",
-            "badge_price": "1.29",
-            "badge_price_value": 1.29,
-            "draw_date": "2026-05-28",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/tap-it-in-instant-win-comp-1000-instant-wins-worth-over-32k-1000-scottsdale-golf-voucher-end-prize-1/",
-            "priority": "High"
-          },
-          {
-            "product": "FAIRWAY FRENZY INSTANT WIN COMP – 1000 INSTANT WINS WORTH OVER £48K – £1000 SCOTTSDALE GOLF VOUCHER END PRIZE #1",
-            "product_info": "Draw Thu 2nd Jul",
-            "badge_price": "2.29",
-            "badge_price_value": 2.29,
-            "draw_date": "2026-07-02",
-            "date_status": "",
-            "url": "https://www.golfcomps.com/competition/fairway-frenzy-instant-win-comp-1000-instant-wins-worth-over-48k-1000-scottsdale-golf-voucher-end-prize-1/",
-            "priority": "High"
-          }
-        ]
-      }
-    ]
+    "week_key": "2026-W19",
+    "generated_at": "2026-05-05T14:46:03",
+    "keyword_groups": []
   }
 }
