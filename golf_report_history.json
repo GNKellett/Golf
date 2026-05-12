@@ -2066,7 +2066,7 @@
     },
     {
       "week_key": "2026-W20",
-      "generated_at": "2026-05-12T14:12:48",
+      "generated_at": "2026-05-12T19:15:58",
       "keyword_groups": [
         {
           "site_key": "caddiegiveaways",
@@ -2634,7 +2634,7 @@
               "product_info": "Wishlist CHOOSE ANY DRIVER £ 1.99 Time left 9 Hours 14 Minutes 12 Seconds Participate 0 Tickets sold: 34 599",
               "badge_price": "£1.99",
               "badge_price_value": 1.99,
-              "draw_date": "2026-05-12",
+              "draw_date": "2026-05-13",
               "date_status": "",
               "url": "https://golfgearraffles.co.uk/raffles/choose-any-driver-13/",
               "priority": "Ignore"
@@ -2644,7 +2644,7 @@
               "product_info": "Wishlist ODYSSEY Square 2 Square TRI-HOT PUTTER £ 0.50 Time left 9 Hours 14 Minutes 12 Seconds Participate 0 Tickets sold: 62 1799",
               "badge_price": "£0.50",
               "badge_price_value": 0.5,
-              "draw_date": "2026-05-12",
+              "draw_date": "2026-05-13",
               "date_status": "",
               "url": "https://golfgearraffles.co.uk/raffles/odyssey-square-2-square-tri-hot-putter-15/",
               "priority": "Ignore"
@@ -3090,5 +3090,5 @@
       ]
     }
   ],
-  "updated_at": "2026-05-12T14:12:48"
+  "updated_at": "2026-05-12T19:15:58"
 }
