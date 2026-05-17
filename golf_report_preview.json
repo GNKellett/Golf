@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T14:46:03",
+  "generated_at": "2026-05-17T22:31:33",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -147,8 +147,8 @@
     ]
   },
   "current_week": {
-    "week_key": "2026-W19",
-    "generated_at": "2026-05-05T14:46:03",
+    "week_key": "2026-W20",
+    "generated_at": "2026-05-17T22:31:33",
     "keyword_groups": []
   }
 }
