@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T02:52:14",
+  "generated_at": "2026-06-11T23:40:13",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -148,7 +148,7 @@
   },
   "current_week": {
     "week_key": "2026-W24",
-    "generated_at": "2026-06-11T02:52:14",
+    "generated_at": "2026-06-11T23:40:13",
     "keyword_groups": [
       {
         "site_key": "caddiegiveaways",
@@ -157,7 +157,7 @@
         "competitions": [
           {
             "product": "2026 Taylormade Qi4D or Callaway Quantum Driver",
-            "product_info": "View Cart Participate / Details Live Draw: Friday, 12th of June at 9pm 2026 Taylormade Qi4D or Callaway Quantum Driver £ 19.99 1 Day 19 Hours 39 Minutes 48 Seconds 7 Tickets Sold £ 19.99 Max Tickets Sold 39 Max Entries Per Person 4 p/p Enter Now",
+            "product_info": "View Cart Participate / Details Live Draw: Friday, 12th of June at 9pm 2026 Taylormade Qi4D or Callaway Quantum Driver £ 19.99 21 Hours 40 Minutes 18 Seconds 12 Tickets Sold £ 19.99 Max Tickets Sold 39 Max Entries Per Person 4 p/p Enter Now",
             "badge_price": "£19.99",
             "badge_price_value": 19.99,
             "draw_date": "2026-06-12",
@@ -167,7 +167,7 @@
           },
           {
             "product": "Taylormade R7 Quad Mini Driver",
-            "product_info": "View Cart Participate / Details Live Draw: Friday, 12th of June at 9pm Taylormade R7 Quad Mini Driver £ 12.99 1 Day 19 Hours 39 Minutes 48 Seconds 4 Tickets Sold £ 12.99 Max Tickets Sold 39 Max Entries Per Person 5 p/p Enter Now",
+            "product_info": "View Cart Participate / Details Live Draw: Friday, 12th of June at 9pm Taylormade R7 Quad Mini Driver £ 12.99 21 Hours 40 Minutes 18 Seconds 7 Tickets Sold £ 12.99 Max Tickets Sold 39 Max Entries Per Person 5 p/p Enter Now",
             "badge_price": "£12.99",
             "badge_price_value": 12.99,
             "draw_date": "2026-06-12",
