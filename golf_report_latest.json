@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T02:06:41",
+  "generated_at": "2026-06-29T02:21:32",
   "source": {
     "mode": "derived_from_full_parser_dump",
     "rows_csv": "C:\\Users\\graem\\OneDrive\\Documents\\Comping\\parse_logs\\parser_audit_full_rows_latest.csv",
@@ -22,11 +22,11 @@
       "site_name": "Caddycomps",
       "site_url": "https://caddycomps.com/",
       "total_comps": 20,
-      "avg_price": 1.756,
-      "under_2_50_count": 13,
+      "avg_price": 1.7215,
+      "under_2_50_count": 12,
       "from_2_50_to_5_00_count": 6,
       "over_5_00_count": 1,
-      "free_count": 0
+      "free_count": 1
     },
     {
       "site_key": "fairwaycompetitions",
@@ -43,11 +43,11 @@
       "site_key": "fullswing",
       "site_name": "Fullswing",
       "site_url": "https://fullswingcomps.com/",
-      "total_comps": 15,
-      "avg_price": 3.9233,
-      "under_2_50_count": 11,
+      "total_comps": 18,
+      "avg_price": 2.9811,
+      "under_2_50_count": 15,
       "from_2_50_to_5_00_count": 2,
-      "over_5_00_count": 2,
+      "over_5_00_count": 1,
       "free_count": 0
     },
     {
@@ -76,20 +76,20 @@
       "site_key": "golfgeargiveaways",
       "site_name": "Golfgeargiveaways",
       "site_url": "https://golfgeargiveaways.co.uk/",
-      "total_comps": 16,
-      "avg_price": 6.2406,
-      "under_2_50_count": 7,
+      "total_comps": 13,
+      "avg_price": 6.5269,
+      "under_2_50_count": 5,
       "from_2_50_to_5_00_count": 5,
-      "over_5_00_count": 4,
+      "over_5_00_count": 3,
       "free_count": 0
     },
     {
       "site_key": "golfgearraffles",
       "site_name": "Golfgearraffles",
       "site_url": "https://golfgearraffles.co.uk/",
-      "total_comps": 11,
-      "avg_price": 0.1436,
-      "under_2_50_count": 11,
+      "total_comps": 10,
+      "avg_price": 0.146,
+      "under_2_50_count": 10,
       "from_2_50_to_5_00_count": 0,
       "over_5_00_count": 0,
       "free_count": 0
@@ -99,10 +99,10 @@
       "site_name": "Golfstarcompetitions",
       "site_url": "https://golfstarcompetitions.co.uk/current-competitions/",
       "total_comps": 80,
-      "avg_price": 1.1119,
-      "under_2_50_count": 71,
+      "avg_price": 0.7466,
+      "under_2_50_count": 72,
       "from_2_50_to_5_00_count": 5,
-      "over_5_00_count": 3,
+      "over_5_00_count": 2,
       "free_count": 1
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "Mashedpotatogolfcomps",
       "site_url": "https://mashedpotatogolfcomps.co.uk/",
       "total_comps": 20,
-      "avg_price": 0.958,
+      "avg_price": 1.02,
       "under_2_50_count": 18,
       "from_2_50_to_5_00_count": 2,
       "over_5_00_count": 0,
@@ -120,9 +120,9 @@
       "site_key": "forecomps",
       "site_name": "Forecomps",
       "site_url": "https://forecomps.co.uk/",
-      "total_comps": 17,
-      "avg_price": 1.3829,
-      "under_2_50_count": 15,
+      "total_comps": 11,
+      "avg_price": 1.7982,
+      "under_2_50_count": 9,
       "from_2_50_to_5_00_count": 1,
       "over_5_00_count": 1,
       "free_count": 0
@@ -147,8 +147,8 @@
     ]
   },
   "current_week": {
-    "week_key": "2026-W26",
-    "generated_at": "2026-06-28T02:06:41",
+    "week_key": "2026-W27",
+    "generated_at": "2026-06-29T02:21:32",
     "keyword_groups": [
       {
         "site_key": "10to2",
@@ -157,10 +157,10 @@
         "competitions": [
           {
             "product": "TAG Heuer Calibre E5 & Golf Tech Prizes",
-            "product_info": "TAG Heuer Calibre E5 & Golf Tech TAG Heuer Calibre E5 & Golf Tech Prizes Only £ 1.00 per entry Enter now 1 Week 5 Days 2 Hours 43 Mins 20 Secs 0% tickets sold: 15 / 12000",
+            "product_info": "TAG Heuer Calibre E5 & Golf Tech TAG Heuer Calibre E5 & Golf Tech Prizes Only £ 1.00 per entry Enter now 1 Week 3 Days 20 Hours 21 Mins 56 Secs 0% tickets sold: 15 / 12000",
             "badge_price": "£1.00",
             "badge_price_value": 1.0,
-            "draw_date": "2026-07-03",
+            "draw_date": "2026-07-02",
             "date_status": "",
             "url": "https://www.10to2.co.uk/product/tag-heuer-calibre-e5-golf-tech-prizes/",
             "priority": "Low"
@@ -191,7 +191,7 @@
         "competitions": [
           {
             "product": "Choice of Golf Shoes",
-            "product_info": "View Cart Participate / Details Live Draw: Monday, 29th of June at 10pm Choice of Golf Shoes £ 7.99 2 Days 3 Hours 34 Minutes 10 Seconds 3 Tickets Sold £ 7.99 Max Tickets Sold 29 Max Entries Per Person 4 p/p Enter Now",
+            "product_info": "View Cart Participate / Details Live Draw: Monday, 29th of June at 10pm Choice of Golf Shoes £ 7.99 21 Hours 11 Minutes 36 Seconds 4 Tickets Sold £ 7.99 Max Tickets Sold 29 Max Entries Per Person 4 p/p Enter Now",
             "badge_price": "£7.99",
             "badge_price_value": 7.99,
             "draw_date": "2026-06-29",
@@ -207,53 +207,83 @@
         "site_url": "https://caddycomps.com/",
         "competitions": [
           {
-            "product": "WIN 2026 CALLAWAY QUANTUM WOODS (DRIVER, FW, HYBRID) #21",
-            "product_info": "Ends at 8pm today WIN 2026 CALLAWAY QUANTUM WOODS (DRIVER, FW, HYBRID) #21 Free iGolf Subscription £ 0.17 Per Entry 4462 / 14999 30 % Enter Now",
-            "badge_price": "£0.17",
-            "badge_price_value": 0.17,
-            "draw_date": "2026-06-28",
+            "product": "FREE TO PLAY: WIN A TAYLORMADE QI4D MEGA BUNDLE (BLITZ GOLF GIVEAWAY) #1",
+            "product_info": "Ends at 1pm tomorrow FREE TO PLAY: WIN A TAYLORMADE QI4D MEGA BUNDLE (BLITZ GOLF GIVEAWAY) #1 +FREE iGolf SUBSCRIPTION £ 0.00 Per Entry 2843 / 9999 28 % Enter Now",
+            "badge_price": "£0.00",
+            "badge_price_value": 0.0,
+            "draw_date": "2026-06-30",
             "date_status": "",
-            "url": "https://caddycomps.com/competition/win-2026-callaway-quantum-woods-driver-fw-hybrid-21/",
+            "url": "https://caddycomps.com/competition/blitz/",
             "priority": "Low"
           },
           {
-            "product": "WIN NEW 2026 DRIVER #365",
-            "product_info": "Ends at 8pm today WIN NEW 2026 DRIVER #365 Free iGolf Subscription £ 0.10 Per Entry 3239 / 11999 27 % Enter Now",
-            "badge_price": "£0.10",
-            "badge_price_value": 0.1,
-            "draw_date": "2026-06-28",
+            "product": "WIN 2026 CALLAWAY QUANTUM MINI DRIVER #17",
+            "product_info": "Ends at 8pm tomorrow WIN 2026 CALLAWAY QUANTUM MINI DRIVER #17 Free iGolf Subscription £ 0.33 Per Entry 210 / 2999 7 % Enter Now",
+            "badge_price": "£0.33",
+            "badge_price_value": 0.33,
+            "draw_date": "2026-06-30",
             "date_status": "",
-            "url": "https://caddycomps.com/competition/win-new-2026-driver-365/",
+            "url": "https://caddycomps.com/competition/win-2026-callaway-quantum-mini-driver-17/",
             "priority": "Low"
           },
           {
-            "product": "WIN NEW 2026 DRIVER #366",
-            "product_info": "Ends at 8pm today WIN NEW 2026 DRIVER #366 Free iGolf Subscription £ 3.35 Per Entry 118 / 359 33 % Enter Now",
-            "badge_price": "£3.35",
-            "badge_price_value": 3.35,
-            "draw_date": "2026-06-28",
-            "date_status": "",
-            "url": "https://caddycomps.com/competition/win-new-2026-driver-364-2/",
-            "priority": "Low"
-          },
-          {
-            "product": "WIN TAYLORMADE R7 QUAD MINI DRIVER #19",
-            "product_info": "Ends at 8pm today WIN TAYLORMADE R7 QUAD MINI DRIVER #19 Free iGolf Subscription £ 3.75 Per Entry 96 / 249 39 % Enter Now",
-            "badge_price": "£3.75",
-            "badge_price_value": 3.75,
-            "draw_date": "2026-06-28",
-            "date_status": "",
-            "url": "https://caddycomps.com/competition/win-taylormade-r7-quad-mini-driver-19/",
-            "priority": "Low"
-          },
-          {
-            "product": "WIN TAYLORMADE SPIDER 5K ZT PUTTER #79",
-            "product_info": "Ends at 8pm today WIN TAYLORMADE SPIDER 5K ZT PUTTER #79 Free iGolf Subscription £ 0.75 Per Entry 692 / 1499 46 % Enter Now",
+            "product": "WIN 2026 TAYLORMADE QI4D DRIVER #44",
+            "product_info": "Ends at 1pm tomorrow WIN 2026 TAYLORMADE QI4D DRIVER #44 Lunchtime Autodraw + Free iGolf Subscription £ 0.75 Per Entry 257 / 1599 16 % Enter Now",
             "badge_price": "£0.75",
             "badge_price_value": 0.75,
-            "draw_date": "2026-06-28",
+            "draw_date": "2026-06-30",
             "date_status": "",
-            "url": "https://caddycomps.com/competition/win-taylormade-spider-5k-zt-putter-79/",
+            "url": "https://caddycomps.com/competition/win-2026-taylormade-qi4d-driver-44/",
+            "priority": "Low"
+          },
+          {
+            "product": "WIN 2026 TAYLORMADE QI4D WOODS (DRIVER, FW, HYBRID) #61",
+            "product_info": "Ends at 8pm tomorrow WIN 2026 TAYLORMADE QI4D WOODS (DRIVER, FW, HYBRID) #61 Free iGolf Subscription £ 3.50 Per Entry 63 / 699 9 % Enter Now",
+            "badge_price": "£3.50",
+            "badge_price_value": 3.5,
+            "draw_date": "2026-06-30",
+            "date_status": "",
+            "url": "https://caddycomps.com/competition/win-2026-taylormade-qi4d-woods-driver-fw-hybrid-61/",
+            "priority": "Low"
+          },
+          {
+            "product": "WIN 2026 TAYLORMADE SPIDER TOUR TORCHED PUTTER #7",
+            "product_info": "Ends at 1pm tomorrow WIN 2026 TAYLORMADE SPIDER TOUR TORCHED PUTTER #7 Lunchtime Autodraw + Free iGolf Subscription £ 3.75 Per Entry 76 / 199 38 % Enter Now",
+            "badge_price": "£3.75",
+            "badge_price_value": 3.75,
+            "draw_date": "2026-06-30",
+            "date_status": "",
+            "url": "https://caddycomps.com/competition/win-2026-taylormade-spider-tour-torched-putter-7/",
+            "priority": "Low"
+          },
+          {
+            "product": "WIN 2026 TAYLORMADE SPIDER TOUR X TORCHED PUTTER #10",
+            "product_info": "Ends at 8pm tomorrow WIN 2026 TAYLORMADE SPIDER TOUR X TORCHED PUTTER #10 Free iGolf Subscription £ 0.25 Per Entry 776 / 2999 26 % Enter Now",
+            "badge_price": "£0.25",
+            "badge_price_value": 0.25,
+            "draw_date": "2026-06-30",
+            "date_status": "",
+            "url": "https://caddycomps.com/competition/win-2026-taylormade-spider-tour-x-torched-putter-10/",
+            "priority": "Low"
+          },
+          {
+            "product": "WIN NEW 2026 DRIVER #369",
+            "product_info": "Ends at 8pm tomorrow WIN NEW 2026 DRIVER #369 Free iGolf Subscription £ 0.65 Per Entry 163 / 1849 9 % Enter Now",
+            "badge_price": "£0.65",
+            "badge_price_value": 0.65,
+            "draw_date": "2026-06-30",
+            "date_status": "",
+            "url": "https://caddycomps.com/competition/win-new-2026-driver-369/",
+            "priority": "Low"
+          },
+          {
+            "product": "WIN NEW 2026 DRIVER #370",
+            "product_info": "Ends at 8pm tomorrow WIN NEW 2026 DRIVER #370 Free iGolf Subscription £ 2.55 Per Entry 17 / 469 4 % Enter Now",
+            "badge_price": "£2.55",
+            "badge_price_value": 2.55,
+            "draw_date": "2026-06-30",
+            "date_status": "",
+            "url": "https://caddycomps.com/competition/win-new-2026-driver-370/",
             "priority": "Low"
           }
         ]
@@ -265,13 +295,30 @@
         "competitions": [
           {
             "product": "Win this Volkswagen Caddy & Golf GTD *WIN BOTH*",
-            "product_info": "Draw WED 1ST JUL Win this Volkswagen Caddy & Golf GTD *WIN BOTH* £0.33 PER ENTRY 14% Sold Cash alternative : £30,000 Enter Now",
+            "product_info": "Draw WED 1ST JUL Win this Volkswagen Caddy & Golf GTD *WIN BOTH* £0.33 PER ENTRY 20% Sold Cash alternative: £30,000 Enter Now",
             "badge_price": "£0.33",
             "badge_price_value": 0.33,
             "draw_date": "2026-07-01",
             "date_status": "",
             "url": "https://www.clickcompetitions.co.uk/",
             "priority": "Written"
+          }
+        ]
+      },
+      {
+        "site_key": "coast2coastcomps",
+        "site_name": "Coast2coastcomps",
+        "site_url": "https://www.coast2coastcomps.com/active-draws/",
+        "competitions": [
+          {
+            "product": "250 Golf Voucher Of Your Choosing Or 225 Cash",
+            "product_info": "£250 Golf Voucher of Your Choosing - or £225 Cash! Prize Cash Alternative: £225.00 ⚡️ Instant wins 70 70 Tickets Sold 628 remaining £ 0.78 /per entry Enter Now",
+            "badge_price": "£0.78",
+            "badge_price_value": 0.78,
+            "draw_date": "2026-07-01",
+            "date_status": "",
+            "url": "https://www.coast2coastcomps.com/raffle/250-golf-voucher-of-your-choosing-or-225-cash/",
+            "priority": "Low"
           }
         ]
       },
@@ -299,7 +346,7 @@
         "competitions": [
           {
             "product": "WIN 1 Dozen Callaway Chrome Tour TruTrack Golf Balls!",
-            "product_info": "Draw Mon 29th Jun 2 days 59 remaining Max 5 p/p Prize Draws 2 days 0 hrs 14 mins 43 secs 0 / 59 0 % WIN 1 Dozen Callaway Chrome Tour TruTrack Golf Balls! £ 1.49 Per Entry Enter Now",
+            "product_info": "Draw Today 0 days 54 remaining Max 5 p/p Prize Draws 0 days 17 hrs 52 mins 46 secs 5 / 59 8 % WIN 1 Dozen Callaway Chrome Tour TruTrack Golf Balls! £ 1.49 Per Entry Enter Now",
             "badge_price": "£1.49",
             "badge_price_value": 1.49,
             "draw_date": "2026-06-29",
@@ -309,7 +356,7 @@
           },
           {
             "product": "WIN 1 Dozen Srixon Limited Edition US Open Z-Star Diamond Golf Balls!",
-            "product_info": "Draw Mon 29th Jun 2 days 43 remaining Max 4 p/p Prize Draws 2 days 0 hrs 14 mins 43 secs 6 / 49 12 % WIN 1 Dozen Srixon Limited Edition US Open Z-Star Diamond Golf Balls! £ 1.49 Per Entry Enter Now",
+            "product_info": "Draw Today 0 days 43 remaining Max 4 p/p Prize Draws 0 days 17 hrs 52 mins 46 secs 6 / 49 12 % WIN 1 Dozen Srixon Limited Edition US Open Z-Star Diamond Golf Balls! £ 1.49 Per Entry Enter Now",
             "badge_price": "£1.49",
             "badge_price_value": 1.49,
             "draw_date": "2026-06-29",
@@ -319,7 +366,7 @@
           },
           {
             "product": "WIN a Bushnell Ion Elite GPS Golf Watch!",
-            "product_info": "Draw Mon 29th Jun 2 days 674 remaining Max 67 p/p Prize Draws 2 days 0 hrs 14 mins 43 secs 5 / 679 1 % WIN a Bushnell Ion Elite GPS Golf Watch! £ 0.45 Per Entry Cash Alternative: £115.00 Enter Now",
+            "product_info": "Draw Today 0 days 627 remaining Max 67 p/p Prize Draws 0 days 17 hrs 52 mins 46 secs 52 / 679 8 % WIN a Bushnell Ion Elite GPS Golf Watch! £ 0.45 Per Entry Cash Alternative: £115.00 Enter Now",
             "badge_price": "£0.45",
             "badge_price_value": 0.45,
             "draw_date": "2026-06-29",
@@ -335,46 +382,6 @@
         "site_url": "https://forecomps.co.uk/",
         "competitions": [
           {
-            "product": "GARMIN APPROACH S44 GOLF GPS WATCH #18",
-            "product_info": "Draws Tomorrow 0% SOLD Sun 28 Jun GARMIN APPROACH S44 GOLF GPS WATCH #18 £0.55 ENTER NOW",
-            "badge_price": "£0.55",
-            "badge_price_value": 0.55,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://forecomps.co.uk/product/garmin-approach-s44-golf-gps-watch-17-copy/",
-            "priority": "Low"
-          },
-          {
-            "product": "Win A 2026 MODEL DRIVER OF YOUR CHOICE – CUSTOM FIT #35",
-            "product_info": "Draws Tomorrow 5% SOLD Sun 28 Jun Win A 2026 MODEL DRIVER OF YOUR CHOICE – CUSTOM FIT #35 £0.69 ENTER NOW",
-            "badge_price": "£0.69",
-            "badge_price_value": 0.69,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://forecomps.co.uk/product/win-a-2026-model-driver-of-your-choice-35/",
-            "priority": "Low"
-          },
-          {
-            "product": "WIN A CALLAWAY QUANTUM MINI DRIVER #4",
-            "product_info": "Draws Tomorrow 2% SOLD Sun 28 Jun WIN A CALLAWAY QUANTUM MINI DRIVER #4 £0.55 ENTER NOW",
-            "badge_price": "£0.55",
-            "badge_price_value": 0.55,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://forecomps.co.uk/product/win-a-callaway-quantum-mini-driver-4/",
-            "priority": "Low"
-          },
-          {
-            "product": "WIN A NEW LAB OZ.I RED PUTTER #2",
-            "product_info": "Draws Tomorrow 2% SOLD Sun 28 Jun WIN A NEW LAB OZ.I RED PUTTER #2 £0.65 ENTER NOW",
-            "badge_price": "£0.65",
-            "badge_price_value": 0.65,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://forecomps.co.uk/product/win-a-new-lab-oz-i-red-putter-2/",
-            "priority": "Low"
-          },
-          {
             "product": "GARMIN APPROACH S44 GOLF GPS WATCH #19",
             "product_info": "Draws Wed 1 Jul 0% SOLD Wed 1 Jul GARMIN APPROACH S44 GOLF GPS WATCH #19 £0.33 ENTER NOW",
             "badge_price": "£0.33",
@@ -386,7 +393,7 @@
           },
           {
             "product": "Win A 2026 MODEL DRIVER OF YOUR CHOICE #36",
-            "product_info": "Draws Wed 1 Jul 0% SOLD Wed 1 Jul Win A 2026 MODEL DRIVER OF YOUR CHOICE #36 £0.44 ENTER NOW",
+            "product_info": "Draws Wed 1 Jul 1% SOLD Wed 1 Jul Win A 2026 MODEL DRIVER OF YOUR CHOICE #36 £0.44 ENTER NOW",
             "badge_price": "£0.44",
             "badge_price_value": 0.44,
             "draw_date": "2026-07-01",
@@ -413,12 +420,22 @@
         "competitions": [
           {
             "product": "WIN TAYLORMADE SPIDER TOUR SERIES PUTTER!",
-            "product_info": "Tue Jun 30th 9:00pm",
+            "product_info": "Tomorrow 9:00pm",
             "badge_price": "0.5",
             "badge_price_value": 0.5,
             "draw_date": "2026-06-30",
             "date_status": "",
             "url": "https://fullswingcomps.com/competition/win-taylormade-spider-tour-series-putter",
+            "priority": "High"
+          },
+          {
+            "product": "TITLEIST PRO V1 GOLF BALLS!",
+            "product_info": "Sat Jul 4th 9:00pm",
+            "badge_price": "1.0",
+            "badge_price_value": 1.0,
+            "draw_date": "2026-07-04",
+            "date_status": "",
+            "url": "https://fullswingcomps.com/competition/titleist-pro-v1-golf-balls-4",
             "priority": "High"
           },
           {
@@ -449,6 +466,16 @@
             "draw_date": "2026-07-12",
             "date_status": "",
             "url": "https://fullswingcomps.com/competition/win-a-lab-golf-link21-putter",
+            "priority": "High"
+          },
+          {
+            "product": "WIN CASH AND GOLF BALLS",
+            "product_info": "Sun Jul 12th 11:00pm",
+            "badge_price": "0.99",
+            "badge_price_value": 0.99,
+            "draw_date": "2026-07-12",
+            "date_status": "",
+            "url": "https://fullswingcomps.com/competition/win-cash-and-golf-balls",
             "priority": "High"
           },
           {
@@ -627,7 +654,7 @@
         "competitions": [
           {
             "product": "WIN A TAYLORMADE QI4D SHADOWFALL DRIVER #4",
-            "product_info": "Mon Jun 29th 9:30pm WIN A TAYLORMADE QI4D SHADOWFALL DRIVER #4 37p PER TICKET Entry 37p Max Tickets 3,999 Instant Wins 20 18.0% Sold Enter",
+            "product_info": "Today 9:30pm WIN A TAYLORMADE QI4D SHADOWFALL DRIVER #4 37p PER TICKET Entry 37p Max Tickets 3,999 Instant Wins 20 24.2% Sold Enter",
             "badge_price": "£0.37",
             "badge_price_value": 0.37,
             "draw_date": "2026-06-29",
@@ -637,7 +664,7 @@
           },
           {
             "product": "WIN A TAYLORMADE SPIDER TOUR TORCHED PUTTER BUNDLE",
-            "product_info": "Mon Jun 29th 9:30pm WIN A TAYLORMADE SPIDER TOUR TORCHED PUTTER BUNDLE 44p PER TICKET Entry 44p Max Tickets 2,499 Instant Wins 10 18.4% Sold Enter",
+            "product_info": "Today 9:30pm WIN A TAYLORMADE SPIDER TOUR TORCHED PUTTER BUNDLE 44p PER TICKET Entry 44p Max Tickets 2,499 Instant Wins 10 21.9% Sold Enter",
             "badge_price": "£0.44",
             "badge_price_value": 0.44,
             "draw_date": "2026-06-29",
@@ -647,7 +674,7 @@
           },
           {
             "product": "WIN A DESIGN YOUR OWN SCOTTY CAMERON PUTTER",
-            "product_info": "Mon Jul 6th 9:30pm WIN A DESIGN YOUR OWN SCOTTY CAMERON PUTTER 29p PER TICKET Entry 29p Max Tickets 4,999 0.9% Sold Enter",
+            "product_info": "Mon Jul 6th 9:30pm WIN A DESIGN YOUR OWN SCOTTY CAMERON PUTTER 29p PER TICKET Entry 29p Max Tickets 4,999 1.3% Sold Enter",
             "badge_price": "£0.29",
             "badge_price_value": 0.29,
             "draw_date": "2026-07-06",
@@ -700,33 +727,23 @@
         "site_url": "https://golfgeargiveaways.co.uk/",
         "competitions": [
           {
-            "product": "*PAYDAY WEEKEND* TORCHED SPIDER PUTTER – 27/6",
-            "product_info": "Sale! Draws Today 5 INSTANT WINS AVAILABLE *PAYDAY WEEKEND* TORCHED SPIDER PUTTER – 27/6 £8 £4 PER ENTRY - + ADD TICKETS 0 days : 5 hours : 5 mins : 44 secs 25% SOLD (49/200) ENTER NOW",
-            "badge_price": "£4",
-            "badge_price_value": 4.0,
-            "draw_date": "2026-06-28",
-            "date_status": "",
-            "url": "https://golfgeargiveaways.co.uk/competition/payday-weekend-torched-spider-putter-27-6/",
-            "priority": "Ignore"
-          },
-          {
-            "product": "*PAYDAY WEEKEND* TITLEIST GTS DRIVER – 28/6",
-            "product_info": "Sale! Draws Tomorrow 5 INSTANT WINS AVAILABLE *PAYDAY WEEKEND* TITLEIST GTS DRIVER – 28/6 £40 £20 PER ENTRY - + ADD TICKETS 1 day : 5 hours : 5 mins : 44 secs 2% SOLD (1/55) ENTER NOW",
+            "product": "*PAYDAY EXTENDED* QI4D SHADOWFALL DRIVER (STIFF) – 29/8",
+            "product_info": "Sale! Draws Today 5 INSTANT WINS AVAILABLE *PAYDAY EXTENDED* QI4D SHADOWFALL DRIVER (STIFF) – 29/8 £40 £20 PER ENTRY - + ADD TICKETS 0 days : 22 hours : 43 mins : 40 secs 0% SOLD (0/50) ENTER NOW",
             "badge_price": "£20",
             "badge_price_value": 20.0,
             "draw_date": "2026-06-29",
             "date_status": "",
-            "url": "https://golfgeargiveaways.co.uk/competition/payday-weekend-titleist-gts-driver-27-6/",
+            "url": "https://golfgeargiveaways.co.uk/competition/payday-extended-qi4d-shadowfall-driver-stiff-29-8/",
             "priority": "Ignore"
           },
           {
-            "product": "*PAYDAY WEEKEND* – LAB DF3 PUTTER – 28/6",
-            "product_info": "Sale! Draws Tomorrow 5 INSTANT WINS AVAILABLE *PAYDAY WEEKEND* – LAB DF3 PUTTER – 28/6 £12 £6 PER ENTRY - + ADD TICKETS 1 day : 5 hours : 5 mins : 44 secs 13% SOLD (15/120) ENTER NOW",
-            "badge_price": "£6",
-            "badge_price_value": 6.0,
+            "product": "*PAYDAY EXTENDED* TORCHED SPIDER PUTTER – 29/8",
+            "product_info": "Sale! Draws Today 3 INSTANT WINS AVAILABLE *PAYDAY EXTENDED* TORCHED SPIDER PUTTER – 29/8 £4 £2 PER ENTRY - + ADD TICKETS 0 days : 22 hours : 43 mins : 40 secs 1% SOLD (3/400) ENTER NOW",
+            "badge_price": "£2",
+            "badge_price_value": 2.0,
             "draw_date": "2026-06-29",
             "date_status": "",
-            "url": "https://golfgeargiveaways.co.uk/competition/payday-weekend-lab-df3-putter-28-6/",
+            "url": "https://golfgeargiveaways.co.uk/competition/payday-extended-torched-spider-putter-29-8/",
             "priority": "Ignore"
           }
         ]
@@ -737,21 +754,41 @@
         "site_url": "https://golfgearraffles.co.uk/",
         "competitions": [
           {
-            "product": "YOUR CHOICE OF GOLF BAG",
-            "product_info": "Wishlist YOUR CHOICE OF GOLF BAG £ 0.04 Cashback £ 1.29 Time left 1 Day 2 Hours 6 Minutes 35 Seconds Participate 0 Tickets sold: 23 599",
-            "badge_price": "£0.04",
-            "badge_price_value": 0.04,
-            "draw_date": "2026-06-29",
+            "product": "COBRA OPTM DRIVER",
+            "product_info": "New Wishlist COBRA OPTM DRIVER £ 0.03 Cashback £ 0.99 Time left 1 Day 19 Hours 44 Minutes 30 Seconds Participate 0 Tickets sold: 5 949",
+            "badge_price": "£0.03",
+            "badge_price_value": 0.03,
+            "draw_date": "2026-06-30",
             "date_status": "",
-            "url": "https://golfgearraffles.co.uk/raffles/your-choice-of-golf-bag-65/",
+            "url": "https://golfgearraffles.co.uk/raffles/cobra-optm-driver-6/",
+            "priority": "Ignore"
+          },
+          {
+            "product": "QUANTUM MINI DRIVER",
+            "product_info": "New Wishlist QUANTUM MINI DRIVER £ 0.03 Cashback £ 0.99 Time left 1 Day 19 Hours 44 Minutes 30 Seconds Participate 0 Tickets sold: 7 899",
+            "badge_price": "£0.03",
+            "badge_price_value": 0.03,
+            "draw_date": "2026-06-30",
+            "date_status": "",
+            "url": "https://golfgearraffles.co.uk/raffles/quantum-mini-driver-4/",
+            "priority": "Ignore"
+          },
+          {
+            "product": "SPIDER ZT PUTTER",
+            "product_info": "New Wishlist SPIDER ZT PUTTER £ 0.03 Cashback £ 0.99 Time left 1 Day 19 Hours 44 Minutes 30 Seconds Participate 0 Tickets sold: 15 899",
+            "badge_price": "£0.03",
+            "badge_price_value": 0.03,
+            "draw_date": "2026-06-30",
+            "date_status": "",
+            "url": "https://golfgearraffles.co.uk/raffles/spider-zt-putter/",
             "priority": "Ignore"
           },
           {
             "product": "£1000 GOLF PRIZE POOL",
-            "product_info": "Wishlist £1000 GOLF PRIZE POOL £ 1.19 Time left 187 Days 0 Hours 6 Minutes 35 Seconds Participate 0 Tickets sold: 296 999",
+            "product_info": "Wishlist £1000 GOLF PRIZE POOL £ 1.19 Time left 185 Days 17 Hours 44 Minutes 30 Seconds Participate 0 Tickets sold: 296 999",
             "badge_price": "£1.19",
             "badge_price_value": 1.19,
-            "draw_date": "2027-01-01",
+            "draw_date": "2026-12-31",
             "date_status": "",
             "url": "https://golfgearraffles.co.uk/raffles/1000-golf-prize-pool/",
             "priority": "Ignore"
@@ -764,68 +801,8 @@
         "site_url": "https://golfstarcompetitions.co.uk/current-competitions/",
         "competitions": [
           {
-            "product": "SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #19",
-            "product_info": "Sale Draw Today 0 days 2 hrs 36 mins 16 secs 54 % Sold SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #19 £ 0.08 Original price was: £0.08. £ 0.05 Current price is: £0.05. Per Entry Enter Now",
-            "badge_price": "£0.05",
-            "badge_price_value": 0.05,
-            "draw_date": "2026-06-28",
-            "date_status": "",
-            "url": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-mystery-driver-19/",
-            "priority": "Written"
-          },
-          {
-            "product": "SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #20",
-            "product_info": "Sale Draw Today 0 days 2 hrs 36 mins 16 secs 33 % Sold SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #20 £ 0.15 Original price was: £0.15. £ 0.10 Current price is: £0.10. Per Entry Enter Now",
-            "badge_price": "£0.10",
-            "badge_price_value": 0.1,
-            "draw_date": "2026-06-28",
-            "date_status": "",
-            "url": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-mystery-driver-20/",
-            "priority": "Written"
-          },
-          {
-            "product": "SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #21",
-            "product_info": "Sale Draw Today 0 days 2 hrs 36 mins 16 secs 39 % Sold SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #21 £ 0.30 Original price was: £0.30. £ 0.20 Current price is: £0.20. Per Entry Enter Now",
-            "badge_price": "£0.20",
-            "badge_price_value": 0.2,
-            "draw_date": "2026-06-28",
-            "date_status": "",
-            "url": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-mystery-driver-21/",
-            "priority": "Written"
-          },
-          {
-            "product": "AUTO DRAW: WIN 12 DOZEN CALLAWAY SUPERSOFT 360 SPLATTER GOLF BALLS #8",
-            "product_info": "Draw Tomorrow 1 day 2 hrs 36 mins 16 secs 26 % Sold AUTO DRAW: WIN 12 DOZEN CALLAWAY SUPERSOFT 360 SPLATTER GOLF BALLS #8 £ 0.18 Per Entry Enter Now",
-            "badge_price": "£0.18",
-            "badge_price_value": 0.18,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://golfstarcompetitions.co.uk/competition/auto-draw-win-12-dozen-callaway-supersoft-360-splatter-golf-balls-8/",
-            "priority": "Written"
-          },
-          {
-            "product": "AUTO DRAW: WIN A TAYLORMADE SPIDER TOUR #1 TORCHED PUTTER #2",
-            "product_info": "Draw Tomorrow 1 day 2 hrs 36 mins 16 secs 37 % Sold AUTO DRAW: WIN A TAYLORMADE SPIDER TOUR #1 TORCHED PUTTER #2 £ 0.30 Per Entry Enter Now",
-            "badge_price": "£0.30",
-            "badge_price_value": 0.3,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://golfstarcompetitions.co.uk/competition/auto-draw-win-a-taylormade-spider-tour-1-torched-putter-2/",
-            "priority": "Written"
-          },
-          {
-            "product": "AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #98",
-            "product_info": "Draw Tomorrow 1 day 2 hrs 36 mins 16 secs 19 % Sold AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #98 £ 0.15 Per Entry Enter Now",
-            "badge_price": "£0.15",
-            "badge_price_value": 0.15,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://golfstarcompetitions.co.uk/competition/auto-draw-win-a-winners-choice-custom-fit-driver-98/",
-            "priority": "Written"
-          },
-          {
             "product": "JUNE CHARITY COMPETITION: WIN A TAYLORMADE SPIDER TOUR X TORCHED PUTTER – 100% OF PROCEEDS GO TO TEENAGE CANCER TRUST!",
-            "product_info": "Draw Mon 29th Jun 2 days 0 hrs 36 mins 16 secs 6 % Sold JUNE CHARITY COMPETITION: WIN A TAYLORMADE SPIDER TOUR X TORCHED PUTTER – 100% OF PROCEEDS GO TO TEENAGE CANCER TRUST! £ 1.00 Per Entry Enter Now",
+            "product_info": "Draw Today 0 days 18 hrs 14 mins 13 secs 8 % Sold JUNE CHARITY COMPETITION: WIN A TAYLORMADE SPIDER TOUR X TORCHED PUTTER – 100% OF PROCEEDS GO TO TEENAGE CANCER TRUST! £ 1.00 Per Entry Enter Now",
             "badge_price": "£1.00",
             "badge_price_value": 1.0,
             "draw_date": "2026-06-29",
@@ -835,7 +812,7 @@
           },
           {
             "product": "WIN 12 DOZEN TAYLORMADE TP5 PIX GOLF BALLS #9",
-            "product_info": "Draw Mon 29th Jun 2 days 0 hrs 36 mins 16 secs 44 % Sold WIN 12 DOZEN TAYLORMADE TP5 PIX GOLF BALLS #9 £ 0.05 Per Entry Enter Now",
+            "product_info": "Draw Today 0 days 18 hrs 14 mins 13 secs 52 % Sold WIN 12 DOZEN TAYLORMADE TP5 PIX GOLF BALLS #9 £ 0.05 Per Entry Enter Now",
             "badge_price": "£0.05",
             "badge_price_value": 0.05,
             "draw_date": "2026-06-29",
@@ -845,7 +822,7 @@
           },
           {
             "product": "WIN A CUSTOM FIT CALLAWAY QUANTUM DRIVER #26",
-            "product_info": "Draw Mon 29th Jun 2 days 0 hrs 36 mins 16 secs 14 % Sold WIN A CUSTOM FIT CALLAWAY QUANTUM DRIVER #26 £ 0.30 Per Entry Enter Now",
+            "product_info": "Draw Today 0 days 18 hrs 14 mins 13 secs 18 % Sold WIN A CUSTOM FIT CALLAWAY QUANTUM DRIVER #26 £ 0.30 Per Entry Enter Now",
             "badge_price": "£0.30",
             "badge_price_value": 0.3,
             "draw_date": "2026-06-29",
@@ -855,7 +832,7 @@
           },
           {
             "product": "WIN A TAYLORMADE SPIDER ZT PUTTER #51",
-            "product_info": "Draw Mon 29th Jun 2 days 0 hrs 36 mins 16 secs 13 % Sold WIN A TAYLORMADE SPIDER ZT PUTTER #51 £ 0.15 Per Entry Enter Now",
+            "product_info": "Draw Today 0 days 18 hrs 14 mins 13 secs 14 % Sold WIN A TAYLORMADE SPIDER ZT PUTTER #51 £ 0.15 Per Entry Enter Now",
             "badge_price": "£0.15",
             "badge_price_value": 0.15,
             "draw_date": "2026-06-29",
@@ -865,7 +842,7 @@
           },
           {
             "product": "AUTO DRAW: WIN 12 DOZEN CALLAWAY CHROME TOUR 2026 GOLF BALLS #3",
-            "product_info": "Draw Tue 30th Jun 3 days 2 hrs 36 mins 16 secs 14 % Sold AUTO DRAW: WIN 12 DOZEN CALLAWAY CHROME TOUR 2026 GOLF BALLS #3 £ 0.15 Per Entry Enter Now",
+            "product_info": "Draw Tomorrow 1 day 20 hrs 14 mins 13 secs 14 % Sold AUTO DRAW: WIN 12 DOZEN CALLAWAY CHROME TOUR 2026 GOLF BALLS #3 £ 0.15 Per Entry Enter Now",
             "badge_price": "£0.15",
             "badge_price_value": 0.15,
             "draw_date": "2026-06-30",
@@ -875,7 +852,7 @@
           },
           {
             "product": "AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #99",
-            "product_info": "Draw Tue 30th Jun 3 days 2 hrs 36 mins 16 secs 3 % Sold AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #99 £ 0.40 Per Entry Enter Now",
+            "product_info": "Draw Tomorrow 1 day 20 hrs 14 mins 13 secs 3 % Sold AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #99 £ 0.40 Per Entry Enter Now",
             "badge_price": "£0.40",
             "badge_price_value": 0.4,
             "draw_date": "2026-06-30",
@@ -885,7 +862,7 @@
           },
           {
             "product": "AUTO-DRAW: WIN AN ODYSSEY AI DUAL #1 CH PUTTER! #1",
-            "product_info": "Draw Tue 30th Jun 3 days 2 hrs 36 mins 16 secs 3 % Sold AUTO-DRAW: WIN AN ODYSSEY AI DUAL #1 CH PUTTER! #1 £ 0.25 Per Entry Enter Now",
+            "product_info": "Draw Tomorrow 1 day 20 hrs 14 mins 13 secs 3 % Sold AUTO-DRAW: WIN AN ODYSSEY AI DUAL #1 CH PUTTER! #1 £ 0.25 Per Entry Enter Now",
             "badge_price": "£0.25",
             "badge_price_value": 0.25,
             "draw_date": "2026-06-30",
@@ -895,7 +872,7 @@
           },
           {
             "product": "WIN 12 DOZEN TAYLORMADE TP5 GOLF BALLS #12",
-            "product_info": "Draw Wed 1st Jul 4 days 0 hrs 36 mins 16 secs 8 % Sold WIN 12 DOZEN TAYLORMADE TP5 GOLF BALLS #12 £ 0.15 Per Entry Enter Now",
+            "product_info": "Draw Wed 1st Jul 2 days 18 hrs 14 mins 13 secs 12 % Sold WIN 12 DOZEN TAYLORMADE TP5 GOLF BALLS #12 £ 0.15 Per Entry Enter Now",
             "badge_price": "£0.15",
             "badge_price_value": 0.15,
             "draw_date": "2026-07-01",
@@ -905,7 +882,7 @@
           },
           {
             "product": "WIN A CALLAWAY QUANTUM MINI DRIVER #5",
-            "product_info": "Draw Wed 1st Jul 4 days 0 hrs 36 mins 16 secs 8 % Sold WIN A CALLAWAY QUANTUM MINI DRIVER #5 £ 0.05 Per Entry Enter Now",
+            "product_info": "Draw Wed 1st Jul 2 days 18 hrs 14 mins 13 secs 9 % Sold WIN A CALLAWAY QUANTUM MINI DRIVER #5 £ 0.05 Per Entry Enter Now",
             "badge_price": "£0.05",
             "badge_price_value": 0.05,
             "draw_date": "2026-07-01",
@@ -915,7 +892,7 @@
           },
           {
             "product": "WIN A COBRA WOODS & PUTTER BUNDLE #1",
-            "product_info": "Draw Wed 1st Jul 4 days 0 hrs 36 mins 16 secs 8 % Sold WIN A COBRA WOODS & PUTTER BUNDLE #1 £ 0.10 Per Entry Enter Now",
+            "product_info": "Draw Wed 1st Jul 2 days 18 hrs 14 mins 13 secs 8 % Sold WIN A COBRA WOODS & PUTTER BUNDLE #1 £ 0.10 Per Entry Enter Now",
             "badge_price": "£0.10",
             "badge_price_value": 0.1,
             "draw_date": "2026-07-01",
@@ -925,7 +902,7 @@
           },
           {
             "product": "WIN A CUSTOM FIT TAYLORMADE QI4D DRIVER #35",
-            "product_info": "Draw Wed 1st Jul 4 days 0 hrs 36 mins 16 secs 9 % Sold WIN A CUSTOM FIT TAYLORMADE QI4D DRIVER #35 £ 0.50 Per Entry Enter Now",
+            "product_info": "Draw Wed 1st Jul 2 days 18 hrs 14 mins 13 secs 10 % Sold WIN A CUSTOM FIT TAYLORMADE QI4D DRIVER #35 £ 0.50 Per Entry Enter Now",
             "badge_price": "£0.50",
             "badge_price_value": 0.5,
             "draw_date": "2026-07-01",
@@ -935,7 +912,7 @@
           },
           {
             "product": "WIN AN ODYSSEY SQUARE 2 SQUARE TRI HOT JAILBIRD PUTTER CRUISER #9",
-            "product_info": "Draw Wed 1st Jul 4 days 0 hrs 36 mins 16 secs 8 % Sold WIN AN ODYSSEY SQUARE 2 SQUARE TRI HOT JAILBIRD PUTTER CRUISER #9 £ 0.40 Per Entry Enter Now",
+            "product_info": "Draw Wed 1st Jul 2 days 18 hrs 14 mins 13 secs 8 % Sold WIN AN ODYSSEY SQUARE 2 SQUARE TRI HOT JAILBIRD PUTTER CRUISER #9 £ 0.40 Per Entry Enter Now",
             "badge_price": "£0.40",
             "badge_price_value": 0.4,
             "draw_date": "2026-07-01",
@@ -945,7 +922,7 @@
           },
           {
             "product": "AUTO DRAW: WIN 12 DOZEN CALLAWAY CHROMESOFT GOLF BALLS #7",
-            "product_info": "Draw Thu 2nd Jul 5 days 2 hrs 36 mins 16 secs 6 % Sold AUTO DRAW: WIN 12 DOZEN CALLAWAY CHROMESOFT GOLF BALLS #7 £ 0.20 Per Entry Enter Now",
+            "product_info": "Draw Thu 2nd Jul 3 days 20 hrs 14 mins 13 secs 7 % Sold AUTO DRAW: WIN 12 DOZEN CALLAWAY CHROMESOFT GOLF BALLS #7 £ 0.20 Per Entry Enter Now",
             "badge_price": "£0.20",
             "badge_price_value": 0.2,
             "draw_date": "2026-07-02",
@@ -955,7 +932,7 @@
           },
           {
             "product": "AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #100",
-            "product_info": "Draw Thu 2nd Jul 5 days 2 hrs 36 mins 16 secs 2 % Sold AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #100 £ 0.30 Per Entry Enter Now",
+            "product_info": "Draw Thu 2nd Jul 3 days 20 hrs 14 mins 13 secs 2 % Sold AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #100 £ 0.30 Per Entry Enter Now",
             "badge_price": "£0.30",
             "badge_price_value": 0.3,
             "draw_date": "2026-07-02",
@@ -964,8 +941,18 @@
             "priority": "Written"
           },
           {
+            "product": "WIN 12 DOZEN TAYLORMADE TP5x PIX GOLF BALLS #3",
+            "product_info": "Draw Fri 3rd Jul 4 days 12 hrs 14 mins 13 secs 17 % Sold WIN 12 DOZEN TAYLORMADE TP5x PIX GOLF BALLS #3 £ 0.15 Per Entry Enter Now",
+            "badge_price": "£0.15",
+            "badge_price_value": 0.15,
+            "draw_date": "2026-07-03",
+            "date_status": "",
+            "url": "https://golfstarcompetitions.co.uk/competition/win-12-dozen-taylormade-tp5x-pix-golf-balls-3/",
+            "priority": "Written"
+          },
+          {
             "product": "WIN A TAYLORMADE SPIDER ZT PUTTER #52",
-            "product_info": "Draw Fri 3rd Jul 5 days 18 hrs 36 mins 16 secs 4 % Sold WIN A TAYLORMADE SPIDER ZT PUTTER #52 £ 0.25 Per Entry Enter Now",
+            "product_info": "Draw Fri 3rd Jul 4 days 12 hrs 14 mins 13 secs 4 % Sold WIN A TAYLORMADE SPIDER ZT PUTTER #52 £ 0.25 Per Entry Enter Now",
             "badge_price": "£0.25",
             "badge_price_value": 0.25,
             "draw_date": "2026-07-03",
@@ -974,8 +961,68 @@
             "priority": "Written"
           },
           {
+            "product": "SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #22",
+            "product_info": "Sale Draw Sat 4th Jul 5 days 20 hrs 14 mins 13 secs 5 % Sold SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #22 £ 0.08 Original price was: £0.08. £ 0.05 Current price is: £0.05. Per Entry Enter Now",
+            "badge_price": "£0.05",
+            "badge_price_value": 0.05,
+            "draw_date": "2026-07-04",
+            "date_status": "",
+            "url": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-mystery-driver-22/",
+            "priority": "Written"
+          },
+          {
+            "product": "SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #23",
+            "product_info": "Sale Draw Sat 4th Jul 5 days 20 hrs 14 mins 13 secs 3 % Sold SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #23 £ 0.15 Original price was: £0.15. £ 0.10 Current price is: £0.10. Per Entry Enter Now",
+            "badge_price": "£0.10",
+            "badge_price_value": 0.1,
+            "draw_date": "2026-07-04",
+            "date_status": "",
+            "url": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-mystery-driver-23/",
+            "priority": "Written"
+          },
+          {
+            "product": "SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #24",
+            "product_info": "Sale Draw Sat 4th Jul 5 days 20 hrs 14 mins 13 secs 3 % Sold SATURDAY SALE AUTO-DRAW: WIN A MYSTERY DRIVER #24 £ 0.30 Original price was: £0.30. £ 0.20 Current price is: £0.20. Per Entry Enter Now",
+            "badge_price": "£0.20",
+            "badge_price_value": 0.2,
+            "draw_date": "2026-07-04",
+            "date_status": "",
+            "url": "https://golfstarcompetitions.co.uk/competition/saturday-sale-auto-draw-win-a-mystery-driver-24/",
+            "priority": "Written"
+          },
+          {
+            "product": "AUTO-DRAW: WIN 12 DOZEN TAYLORMADE DISTANCE+ GOLF BALLS #12",
+            "product_info": "Draw Sun 5th Jul 6 days 20 hrs 14 mins 13 secs 4 % Sold AUTO-DRAW: WIN 12 DOZEN TAYLORMADE DISTANCE+ GOLF BALLS #12 £ 0.15 Per Entry Enter Now",
+            "badge_price": "£0.15",
+            "badge_price_value": 0.15,
+            "draw_date": "2026-07-05",
+            "date_status": "",
+            "url": "https://golfstarcompetitions.co.uk/competition/auto-draw-win-12-dozen-taylormade-distance-golf-balls-12/",
+            "priority": "Written"
+          },
+          {
+            "product": "AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #101",
+            "product_info": "Draw Sun 5th Jul 6 days 20 hrs 14 mins 13 secs 3 % Sold AUTO-DRAW: WIN A WINNER’S CHOICE CUSTOM FIT DRIVER #101 £ 0.75 Per Entry Enter Now",
+            "badge_price": "£0.75",
+            "badge_price_value": 0.75,
+            "draw_date": "2026-07-05",
+            "date_status": "",
+            "url": "https://golfstarcompetitions.co.uk/competition/auto-draw-win-a-winners-choice-custom-fit-driver-101/",
+            "priority": "Written"
+          },
+          {
+            "product": "AUTO-DRAW: WIN AN ODYSSEY AI DUAL #7 PUTTER! #6",
+            "product_info": "Draw Sun 5th Jul 6 days 20 hrs 14 mins 13 secs 5 % Sold AUTO-DRAW: WIN AN ODYSSEY AI DUAL #7 PUTTER! #6 £ 0.04 Per Entry Enter Now",
+            "badge_price": "£0.04",
+            "badge_price_value": 0.04,
+            "draw_date": "2026-07-05",
+            "date_status": "",
+            "url": "https://golfstarcompetitions.co.uk/competition/auto-draw-win-an-odyssey-ai-dual-7-putter-6/",
+            "priority": "Written"
+          },
+          {
             "product": "FREE GIVEAWAY: WIN A GOLFBREAKS LINKS CLUB MEMBERSHIP WITH A 2 NIGHT 3 ROUND STAY AT THE SPRINGS RESORT & GOLF CLUB FOR 4 PEOPLE!",
-            "product_info": "Draw Fri 17th Jul 19 days 18 hrs 36 mins 16 secs FREE GIVEAWAY: WIN A GOLFBREAKS LINKS CLUB MEMBERSHIP WITH A 2 NIGHT 3 ROUND STAY AT THE SPRINGS RESORT & GOLF CLUB FOR 4 PEOPLE! £ 0.00 Per Entry Enter Now",
+            "product_info": "Draw Fri 17th Jul 18 days 12 hrs 14 mins 13 secs FREE GIVEAWAY: WIN A GOLFBREAKS LINKS CLUB MEMBERSHIP WITH A 2 NIGHT 3 ROUND STAY AT THE SPRINGS RESORT & GOLF CLUB FOR 4 PEOPLE! £ 0.00 Per Entry Enter Now",
             "badge_price": "£0.00",
             "badge_price_value": 0.0,
             "draw_date": "2026-07-17",
@@ -985,7 +1032,7 @@
           },
           {
             "product": "ON COURSE ESSENTIALS INSTANT WIN COMPETITION! £222,000 WORTH OF INSTANT WIN PRIZES TO BE WON WITH A MAIN PRIZE OF A WINNER’S CHOICE GOLF BAG!",
-            "product_info": "Draw Mon 3rd Aug 37 days 0 hrs 36 mins 16 secs 2 % Sold ON COURSE ESSENTIALS INSTANT WIN COMPETITION! £222,000 WORTH OF INSTANT WIN PRIZES TO BE WON WITH A MAIN PRIZE OF A WINNER’S CHOICE GOLF BAG! £ 3.99 Per Entry Enter Now",
+            "product_info": "Draw Mon 3rd Aug 35 days 18 hrs 14 mins 13 secs 3 % Sold ON COURSE ESSENTIALS INSTANT WIN COMPETITION! £222,000 WORTH OF INSTANT WIN PRIZES TO BE WON WITH A MAIN PRIZE OF A WINNER’S CHOICE GOLF BAG! £ 3.99 Per Entry Enter Now",
             "badge_price": "£3.99",
             "badge_price_value": 3.99,
             "draw_date": "2026-08-03",
@@ -995,7 +1042,7 @@
           },
           {
             "product": "WIN AN ODYSSEY AI DUAL SQUARE 2 SQUARE MAX 1/2 BALL CRUISER BROOMSTICK PUTTER! #1",
-            "product_info": "Draw Fri 3rd Jul 5 days 18 hrs 36 mins 16 secs 3 % Sold WIN AN ODYSSEY AI DUAL SQUARE 2 SQUARE MAX 1/2 BALL CRUISER BROOMSTICK PUTTER! #1 £ 0.20 Per Entry Enter Now",
+            "product_info": "Draw Fri 3rd Jul 4 days 12 hrs 14 mins 13 secs 3 % Sold WIN AN ODYSSEY AI DUAL SQUARE 2 SQUARE MAX 1/2 BALL CRUISER BROOMSTICK PUTTER! #1 £ 0.20 Per Entry Enter Now",
             "badge_price": "£0.20",
             "badge_price_value": 0.2,
             "draw_date": "2027-02-01",
@@ -1012,7 +1059,7 @@
         "competitions": [
           {
             "product": "KINGS GOLF CLUB INVERNESS 4-BALL # 2",
-            "product_info": "Draw Fri 3rd Jul 6 days 0 hrs 4 mins 39 secs 0 % Sold £ 0.99 Per Entry KINGS GOLF CLUB INVERNESS 4-BALL # 2 Enter Now",
+            "product_info": "Draw Fri 3rd Jul 4 days 17 hrs 42 mins 38 secs 0 % Sold £ 0.99 Per Entry KINGS GOLF CLUB INVERNESS 4-BALL # 2 Enter Now",
             "badge_price": "£0.99",
             "badge_price_value": 0.99,
             "draw_date": "2026-07-03",
@@ -1029,7 +1076,7 @@
         "competitions": [
           {
             "product": "GOLF GTD OR £15,000",
-            "product_info": "Draw Fri 3rd Jul GOLF GTD OR £15,000 £ 0.12 Per Entry 1 % Enter Now",
+            "product_info": "Draw Fri 3rd Jul GOLF GTD OR £15,000 £ 0.12 Per Entry 3 % Enter Now",
             "badge_price": "£0.12",
             "badge_price_value": 0.12,
             "draw_date": "2026-07-03",
@@ -1045,88 +1092,78 @@
         "site_url": "https://mashedpotatogolfcomps.co.uk/",
         "competitions": [
           {
-            "product": "Auto Draw Win A Callaway Chase Golf Stand Bag 1",
-            "product_info": "Automated Draw Draw Tomorrow £ 0.19 Per Entry | AUTO DRAW | Win a Callaway Chase Golf Stand Bag #1 11 % Sold 1 day 1 hr 18 mins 39 secs 1 days 1954 remaining Max 109 p/p Enter Now",
-            "badge_price": "£0.19",
-            "badge_price_value": 0.19,
-            "draw_date": "2026-06-29",
+            "product": "Auto Draw Win A Ltd Edition Ogio Fuse Golf Stand Bag 4",
+            "product_info": "Automated Draw Draw Tue 30th Jun £ 1.19 Per Entry | AUTO DRAW | WIN A LTD EDITION OGIO FUSE GOLF STAND BAG #4 3 % Sold 1 day 19 hrs 0 mins 42 secs 1 days 415 remaining Max 22 p/p Enter Now",
+            "badge_price": "£1.19",
+            "badge_price_value": 1.19,
+            "draw_date": "2026-06-30",
             "date_status": "",
-            "url": "https://mashedpotatogolfcomps.co.uk/competition/auto-draw-win-a-callaway-chase-golf-stand-bag-1/",
+            "url": "https://mashedpotatogolfcomps.co.uk/competition/auto-draw-win-a-ltd-edition-ogio-fuse-golf-stand-bag-4/",
             "priority": "Low"
           },
           {
-            "product": "Auto Draw Win A Callaway Quantum Max Triple Diamond Driver 1",
-            "product_info": "Automated Draw Draw Tomorrow £ 0.99 Per Entry | AUTO DRAW | WIN A CALLAWAY QUANTUM MAX TRIPLE DIAMOND DRIVER #1 5 % Sold 1 day 1 hr 18 mins 39 secs 1 days 1333 remaining Max 70 p/p Enter Now",
-            "badge_price": "£0.99",
-            "badge_price_value": 0.99,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://mashedpotatogolfcomps.co.uk/competition/auto-draw-win-a-callaway-quantum-max-triple-diamond-driver-1/",
-            "priority": "Low"
-          },
-          {
-            "product": "Auto Draw Win A Shot Scope V5 Golf Watch 21",
-            "product_info": "Automated Draw Draw Tomorrow £ 0.25 Per Entry | AUTO DRAW | WIN A SHOT SCOPE V5 GOLF WATCH #21 15 % Sold 1 day 1 hr 18 mins 39 secs 1 days 1700 remaining Max 99 p/p Enter Now",
-            "badge_price": "£0.25",
-            "badge_price_value": 0.25,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://mashedpotatogolfcomps.co.uk/competition/auto-draw-win-a-shot-scope-v5-golf-watch-21/",
-            "priority": "Low"
-          },
-          {
-            "product": "Auto Draw Win An Odyssey Ai Dual Jailbird Mini 1 2 Ball Golf Putter 1",
-            "product_info": "Automated Draw Draw Tomorrow £ 0.29 Per Entry | AUTO DRAW | Win an Odyssey Ai-Dual Jailbird Mini 1/2 Ball Golf Putter #1 2 % Sold 1 day 1 hr 18 mins 39 secs 1 days 2439 remaining Max 125 p/p Enter Now",
+            "product": "Auto Draw Win X6 Dozen Taylormade Speedsoft Ink Blue Red Golf Balls 9",
+            "product_info": "Automated Draw Draw Tue 30th Jun £ 0.29 Per Entry | AUTO DRAW | WIN X6 DOZEN TAYLORMADE SPEEDSOFT INK BLUE/ RED GOLF BALLS #9 1 % Sold 1 day 19 hrs 0 mins 42 secs 1 days 2195 remaining Max 110 p/p Enter Now",
             "badge_price": "£0.29",
             "badge_price_value": 0.29,
-            "draw_date": "2026-06-29",
+            "draw_date": "2026-06-30",
             "date_status": "",
-            "url": "https://mashedpotatogolfcomps.co.uk/competition/auto-draw-win-an-odyssey-ai-dual-jailbird-mini-1-2-ball-golf-putter-1/",
-            "priority": "Low"
-          },
-          {
-            "product": "Auto Draw Win X6 Dozen Taylormade Tp5X Yellow Golf Balls 1",
-            "product_info": "Automated Draw Draw Tomorrow £ 0.49 Per Entry | AUTO DRAW | WIN X6 DOZEN TAYLORMADE TP5X YELLOW GOLF BALLS #1 1 % Sold 1 day 1 hr 18 mins 39 secs 1 days 1479 remaining Max 75 p/p Enter Now",
-            "badge_price": "£0.49",
-            "badge_price_value": 0.49,
-            "draw_date": "2026-06-29",
-            "date_status": "",
-            "url": "https://mashedpotatogolfcomps.co.uk/competition/auto-draw-win-x6-dozen-taylormade-tp5x-yellow-golf-balls-1/",
+            "url": "https://mashedpotatogolfcomps.co.uk/competition/auto-draw-win-x6-dozen-taylormade-speedsoft-ink-blue-red-golf-balls-9/",
             "priority": "Low"
           },
           {
             "product": "WIN A CUSTOM FIT TAYLORMADE Qi4D DRIVER #15",
-            "product_info": "Prize Draws Draw Mon 29th Jun £ 0.29 Per Entry WIN A CUSTOM FIT TAYLORMADE Qi4D DRIVER #15 7 % Sold 2 days 0 hrs 18 mins 39 secs 2 days 4637 remaining Max 250 p/p Enter Now",
+            "product_info": "Prize Draws Draw Tomorrow £ 0.29 Per Entry WIN A CUSTOM FIT TAYLORMADE Qi4D DRIVER #15 12 % Sold 0 days 18 hrs 0 mins 42 secs 0 days 4385 remaining Max 250 p/p Enter Now",
             "badge_price": "£0.29",
             "badge_price_value": 0.29,
-            "draw_date": "2026-06-29",
+            "draw_date": "2026-06-30",
             "date_status": "",
             "url": "https://mashedpotatogolfcomps.co.uk/competition/win-a-custom-fit-taylormade-qi4d-driver-15/",
             "priority": "Low"
           },
           {
+            "product": "WIN A NEW 2026 MOTOCADDY SE ELECTRIC GOLF TROLLEY #8",
+            "product_info": "Prize Draws Draw Tomorrow £ 0.49 Per Entry WIN A NEW 2026 MOTOCADDY SE ELECTRIC GOLF TROLLEY #8 3 % Sold 0 days 18 hrs 0 mins 42 secs 0 days 2922 remaining Max 150 p/p Enter Now",
+            "badge_price": "£0.49",
+            "badge_price_value": 0.49,
+            "draw_date": "2026-06-30",
+            "date_status": "",
+            "url": "https://mashedpotatogolfcomps.co.uk/competition/win-a-new-2026-motocaddy-se-electric-golf-trolley-8/",
+            "priority": "Low"
+          },
+          {
+            "product": "WIN A TAYLORMADE SPIDER TOCHED TOUR TRUEPATH SMALL SLANT GOLF PUTTER #1",
+            "product_info": "Prize Draws Draw Tomorrow £ 0.99 Per Entry WIN A TAYLORMADE SPIDER TOCHED TOUR TRUEPATH SMALL SLANT GOLF PUTTER #1 7 % Sold 0 days 18 hrs 0 mins 42 secs 0 days 747 remaining Max 40 p/p Enter Now",
+            "badge_price": "£0.99",
+            "badge_price_value": 0.99,
+            "draw_date": "2026-06-30",
+            "date_status": "",
+            "url": "https://mashedpotatogolfcomps.co.uk/competition/win-a-taylormade-spider-toched-tour-truepath-small-slant-golf-putter-1/",
+            "priority": "Low"
+          },
+          {
             "product": "WIN X6 DOZEN 2026 CALLAWAY CHROME TOUR X GOLF BALLS #6",
-            "product_info": "Prize Draws Draw Mon 29th Jun £ 0.39 Per Entry WIN X6 DOZEN 2026 CALLAWAY CHROME TOUR X GOLF BALLS #6 2 % Sold 2 days 0 hrs 18 mins 39 secs 2 days 1854 remaining Max 95 p/p Enter Now",
+            "product_info": "Prize Draws Draw Tomorrow £ 0.39 Per Entry WIN X6 DOZEN 2026 CALLAWAY CHROME TOUR X GOLF BALLS #6 7 % Sold 0 days 18 hrs 0 mins 42 secs 0 days 1764 remaining Max 95 p/p Enter Now",
             "badge_price": "£0.39",
             "badge_price_value": 0.39,
-            "draw_date": "2026-06-29",
+            "draw_date": "2026-06-30",
             "date_status": "",
             "url": "https://mashedpotatogolfcomps.co.uk/competition/win-x6-dozen-2026-callaway-chrome-tour-x-golf-balls-6/",
             "priority": "Low"
           },
           {
             "product": "WIN x6 DOZEN TAYLORMADE 2026 TP5 STRIPE GOLF BALLS #10",
-            "product_info": "Prize Draws Draw Mon 29th Jun £ 0.69 Per Entry WIN x6 DOZEN TAYLORMADE 2026 TP5 STRIPE GOLF BALLS #10 0 % Sold 2 days 0 hrs 18 mins 39 secs 2 days 1099 remaining Max 55 p/p Enter Now",
+            "product_info": "Prize Draws Draw Tomorrow £ 0.69 Per Entry WIN x6 DOZEN TAYLORMADE 2026 TP5 STRIPE GOLF BALLS #10 3 % Sold 0 days 18 hrs 0 mins 42 secs 0 days 1061 remaining Max 55 p/p Enter Now",
             "badge_price": "£0.69",
             "badge_price_value": 0.69,
-            "draw_date": "2026-06-29",
+            "draw_date": "2026-06-30",
             "date_status": "",
             "url": "https://mashedpotatogolfcomps.co.uk/competition/win-x6-dozen-taylormade-2026-tp5-stripe-golf-balls-10/",
             "priority": "Low"
           },
           {
             "product": "WIN A CLEVELAND 588 TOUR ACTION LIMITED EDITION GOLF WEDGES SET #1",
-            "product_info": "Prize Draws Draw Thu 2nd Jul £ 0.89 Per Entry WIN A CLEVELAND 588 TOUR ACTION LIMITED EDITION GOLF WEDGES SET #1 18 % Sold 5 days 0 hrs 18 mins 39 secs 5 days 1395 remaining Max 85 p/p Enter Now",
+            "product_info": "Prize Draws Draw Thu 2nd Jul £ 0.89 Per Entry WIN A CLEVELAND 588 TOUR ACTION LIMITED EDITION GOLF WEDGES SET #1 18 % Sold 3 days 18 hrs 0 mins 42 secs 3 days 1395 remaining Max 85 p/p Enter Now",
             "badge_price": "£0.89",
             "badge_price_value": 0.89,
             "draw_date": "2026-07-02",
@@ -1136,12 +1173,22 @@
           },
           {
             "product": "SMASH N’ GRAB 2026 DRIVER INSTANT WIN – 753 INSTANT WIN PRIZES WORTH OVER £50000 #4",
-            "product_info": "Instant Wins Draw Thu 30th Jul £ 1.99 Per Entry SMASH N’ GRAB 2026 DRIVER INSTANT WIN – 753 INSTANT WIN PRIZES WORTH OVER £50000 #4 1 % Sold 33 days 0 hrs 18 mins 39 secs 33 days 62717 remaining Max 999 p/p Enter Now",
+            "product_info": "Instant Wins Draw Thu 30th Jul £ 1.99 Per Entry SMASH N’ GRAB 2026 DRIVER INSTANT WIN – 753 INSTANT WIN PRIZES WORTH OVER £50000 #4 1 % Sold 31 days 18 hrs 0 mins 42 secs 31 days 62695 remaining Max 999 p/p Enter Now",
             "badge_price": "£1.99",
             "badge_price_value": 1.99,
             "draw_date": "2026-07-30",
             "date_status": "",
             "url": "https://mashedpotatogolfcomps.co.uk/competition/smash-n-grab-2026-driver-instant-win-753-instant-win-prizes-worth-over-50000-4/",
+            "priority": "Low"
+          },
+          {
+            "product": "Auto Draw Win An Odyssey Ai Dual S2S Max 1 2 Ball Golf Putter 1",
+            "product_info": "Automated Draw Draw Tue 30th Jun £ 0.29 Per Entry | AUTO DRAW | Win An Odyssey Ai-Dual S2S Max 1/2 Ball Golf Putter #1 4 % Sold 1 day 19 hrs 0 mins 42 secs 1 days 2390 remaining Max 125 p/p Enter Now",
+            "badge_price": "£0.29",
+            "badge_price_value": 0.29,
+            "draw_date": "2027-02-01",
+            "date_status": "",
+            "url": "https://mashedpotatogolfcomps.co.uk/competition/auto-draw-win-an-odyssey-ai-dual-s2s-max-1-2-ball-golf-putter-1/",
             "priority": "Low"
           }
         ]
@@ -1153,10 +1200,10 @@
         "competitions": [
           {
             "product": "New Scotty Cameron Phantom 3 2 Putter",
-            "product_info": "Draw Mon 29th Jun @ 8:00pm £ 10.00 Per Entry New Scotty Cameron Phantom 3.2 Putter 2 days 0 hrs 11 mins 59 secs Cash Alternative: £400 11 / 89 12 % 12% View Competition",
+            "product_info": "Draw Tonight @ 8:00pm £ 10.00 Per Entry New Scotty Cameron Phantom 3.2 Putter 0 days 17 hrs 54 mins 4 secs Cash Alternative: £400 28 / 89 31 % 31% View Competition",
             "badge_price": "£10.00",
             "badge_price_value": 10.0,
-            "draw_date": "2027-02-03",
+            "draw_date": "2026-06-29",
             "date_status": "",
             "url": "https://www.paragoncompetitions.co.uk/competition/new-scotty-cameron-phantom-3-2-putter/",
             "priority": "Low"
@@ -1191,16 +1238,33 @@
         ]
       },
       {
+        "site_key": "revcomps",
+        "site_name": "Rev Comps",
+        "site_url": "https://www.revcomps.com/current-competitions/",
+        "competitions": [
+          {
+            "product": "PING G440 MAX DRIVER BUNDLE",
+            "product_info": "WIN TODAY 11PM",
+            "badge_price": "£3.97",
+            "badge_price_value": 3.97,
+            "draw_date": "2026-06-29",
+            "date_status": "",
+            "url": "https://www.revcomps.com/product/ping-g440-max-driver-bundle/",
+            "priority": "High"
+          }
+        ]
+      },
+      {
         "site_key": "salexmo",
         "site_name": "Salexmo",
         "site_url": "https://salexmo.co.uk/",
         "competitions": [
           {
             "product": "£1000 GOLF OR FISHING VOUCHER PLUS INSTANT CASH WINS 6/7/26",
-            "product_info": "SCRATCH TO WIN Quick Add Tickets Added! £1000 GOLF OR FISHING VOUCHER PLUS INSTANT CASH WINS 6/7/26 20p 6.5% 3,291/50,500 9 Days 1 Hours 24 Minutes 10 Seconds Enter Competition",
+            "product_info": "SCRATCH TO WIN Quick Add Tickets Added! £1000 GOLF OR FISHING VOUCHER PLUS INSTANT CASH WINS 6/7/26 20p 7.0% 3,549/50,500 7 Days 19 Hours 7 Minutes 12 Seconds Enter Competition",
             "badge_price": "£0.20",
             "badge_price_value": 0.2,
-            "draw_date": "2026-07-07",
+            "draw_date": "2026-07-06",
             "date_status": "",
             "url": "https://salexmo.co.uk/competition/ps1000-golf-or-fishing-voucher-plus-instant-cash-wins-6726",
             "priority": "Low"
