@@ -3359,7 +3359,7 @@
     },
     {
       "week_key": "2026-W27",
-      "generated_at": "2026-07-05T00:34:19",
+      "generated_at": "2026-07-05T19:22:45",
       "keyword_groups": [
         {
           "site_key": "10to2",
@@ -3385,7 +3385,17 @@
           "competitions": [
             {
               "product": "Makita 12V Max Impact & Drill Driver Combo Kit with Batteries",
-              "product_info": "AUTO DRAW SUN 05 JUL",
+              "product_info": "AUTO DRAW TODAY",
+              "badge_price": "£1.25",
+              "badge_price_value": 1.25,
+              "draw_date": "2026-07-05",
+              "date_status": "",
+              "url": "https://www.apex66.co.uk/competition/garage-equipment-tools/makita-12v-max-impact-drill-driver-combo-kit-with-batteries-2/",
+              "priority": "High"
+            },
+            {
+              "product": "Makita 12V Max Impact & Drill Driver Combo Kit with Batteries",
+              "product_info": "AUTO DRAW TODAY",
               "badge_price": "£1.25",
               "badge_price_value": 1.25,
               "draw_date": "2026-07-05",
@@ -3589,18 +3599,8 @@
           "site_url": "https://fullswingcomps.com/",
           "competitions": [
             {
-              "product": "TITLEIST PRO V1 GOLF BALLS!",
-              "product_info": "Sat Jul 4th 9:00pm",
-              "badge_price": "1.0",
-              "badge_price_value": 1.0,
-              "draw_date": "2026-07-04",
-              "date_status": "",
-              "url": "https://fullswingcomps.com/competition/titleist-pro-v1-golf-balls-4",
-              "priority": "High"
-            },
-            {
               "product": "#3 WIN A DRIVER OF YOUR CHOICE!",
-              "product_info": "Sun Jul 5th 8:00pm",
+              "product_info": "Today 8:00pm",
               "badge_price": "0.75",
               "badge_price_value": 0.75,
               "draw_date": "2026-07-05",
@@ -3639,6 +3639,16 @@
               "priority": "High"
             },
             {
+              "product": "AUTO - DRAW WIN 2026 TAYLORMADE SPIDER TOUR X TORCHED PUTTER",
+              "product_info": "Sat Jul 18th 9:00pm",
+              "badge_price": "2.5",
+              "badge_price_value": 2.5,
+              "draw_date": "2026-07-18",
+              "date_status": "",
+              "url": "https://fullswingcomps.com/competition/auto-draw-win-2026-taylormade-spider-tour-x-torched-putter",
+              "priority": "High"
+            },
+            {
               "product": "WIN A TAYLORMADE RBZ STEEL 10 PIECE GOLF CART BAG PACKAGE SET!",
               "product_info": "Sun Jul 26th 8:00pm",
               "badge_price": "0.75",
@@ -3646,6 +3656,26 @@
               "draw_date": "2026-07-26",
               "date_status": "",
               "url": "https://fullswingcomps.com/competition/win-a-taylormade-rbz-steel-10-piece-golf-cart-bag-package-set",
+              "priority": "High"
+            },
+            {
+              "product": "AUTO-DRAW: WIN A SHOT SCOPE LM1 GOLF LAUNCH MONITOR!",
+              "product_info": "Tue Jul 28th 9:00pm",
+              "badge_price": "1.75",
+              "badge_price_value": 1.75,
+              "draw_date": "2026-07-28",
+              "date_status": "",
+              "url": "https://fullswingcomps.com/competition/auto-draw-win-a-shot-scope-lm1-golf-launch-monitor-2",
+              "priority": "High"
+            },
+            {
+              "product": "#4 WIN A DRIVER OF YOUR CHOICE!",
+              "product_info": "Sun Aug 2nd 8:00pm",
+              "badge_price": "0.75",
+              "badge_price_value": 0.75,
+              "draw_date": "2026-08-02",
+              "date_status": "",
+              "url": "https://fullswingcomps.com/competition/4-win-a-driver-of-your-choice",
               "priority": "High"
             }
           ]
@@ -3655,16 +3685,6 @@
           "site_name": "Golfcomps",
           "site_url": "https://www.golfcomps.com/competitions/",
           "competitions": [
-            {
-              "product": "FAIRWAY FRENZY INSTANT WIN COMP – 1000 INSTANT WINS WORTH OVER £48K – £1000 SCOTTSDALE GOLF VOUCHER END PRIZE #1",
-              "product_info": "Draw Today",
-              "badge_price": "2.29",
-              "badge_price_value": 2.29,
-              "draw_date": "2026-07-06",
-              "date_status": "",
-              "url": "https://www.golfcomps.com/competition/fairway-frenzy-instant-win-comp-1000-instant-wins-worth-over-48k-1000-scottsdale-golf-voucher-end-prize-1/",
-              "priority": "High"
-            },
             {
               "product": "WIN A BRAND NEW 2026 DRIVER OF YOUR CHOICE #16 (WORTH UP TO £549)",
               "product_info": "Draw Thu 23rd Jul",
@@ -4411,10 +4431,10 @@
           "competitions": [
             {
               "product": "TAYLORMADE RBZ STEEL 10-PIECE GOLF SET!",
-              "product_info": "05 days 18 hrs 36 min 28 sec Closing on Tuesday 8:45pm 05 days 18 hrs 36 min 28 sec TAYLORMADE RBZ STEEL 10-PIECE GOLF SET! Cash Alternative: £700 £0.01 sold: 0 % Enter now",
+              "product_info": "02 days 01 hrs 28 min 24 sec Closing on Tuesday 8:45pm 02 days 01 hrs 28 min 24 sec TAYLORMADE RBZ STEEL 10-PIECE GOLF SET! Cash Alternative: £700 £0.01 sold: 2 % Enter now",
               "badge_price": "£0.01",
               "badge_price_value": 0.01,
-              "draw_date": "2026-07-11",
+              "draw_date": "2026-07-08",
               "date_status": "",
               "url": "https://ukcc.co.uk/competition/taylormade-rbz-steel-10-piece-golf-set",
               "priority": "High"
@@ -4424,5 +4444,5 @@
       ]
     }
   ],
-  "updated_at": "2026-07-05T00:34:19"
+  "updated_at": "2026-07-05T19:22:45"
 }
